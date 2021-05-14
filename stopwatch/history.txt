@@ -1,0 +1,2655 @@
+ 2655  history 10000 > history.txt
+ 2654  python stopwatch.py < input/1.in
+ 2653  history 10000 > history.txt
+ 2652  history 100
+ 2651  history 10
+ 2650  python input/1.in || stopwatch.py
+ 2649  python input/1.in | stopwatch.py
+ 2648  python input/1.in >  stopwatch.py
+ 2647  cd stopwatch
+ 2646  git push --set-upstream origin master
+ 2645  git push
+ 2644  git remote add origin https://github.com/AndreKobaek/kattis.git
+ 2643  git push
+ 2642  git commit -m "initial kattis repo"
+ 2641  git add .
+ 2640  git init
+ 2639  sudo apt-get upgrade
+ 2638  sudo apt-get update
+ 2637  sudo apt-get fetch
+ 2636  python main.py > out0421.txt
+ 2635  python main.py > out0704.txt
+ 2634  python main.py > out3103.txt
+ 2633  exit
+ 2632  python main.py > out2403.txt
+ 2631  git push --mirror https://github.com/AndreKobaek/searchEngine.git
+ 2630  git status
+ 2629  git
+ 2628  cd searchengine
+ 2627  ls
+ 2626  cd build/classes/java/main
+ 2625  git status
+ 2624  cd ../../previous-semesters/first-semester/introductory-programing/IdeaProjects/ip18groupM
+ 2623  git push --set-upstream https://github.com/AndreKobaek/superDeducer.git master
+ 2622  git push --set-upstream https://github.com/AndreKobaek/superDeducer.git
+ 2621  git push https://github.com/AndreKobaek/superDeducer.git
+ 2620  git commit -m "inital working version of super deducter - no ret pala"
+ 2619  git add .
+ 2618  git init
+ 2617  git
+ 2616  git push https://github.com/AndreKobaek/superDeducer.git
+ 2615  cd python/super_deducter
+ 2614  rm -rf clone-k-sat
+ 2613  cd ..
+ 2612  git push --mirror https://github.com/AndreKobaek/k-sat.git
+ 2611  cd k-sat
+ 2610  git clone https://github.itu.dk/akob/k-sat.git
+ 2609  cd clone-k-sat
+ 2608  git clone https://github.itu.dk/akob/k-sat.git
+ 2607  mkdir clone-k-sat
+ 2606  cd ..
+ 2605  cd Documents/research/k-sat
+ 2604  python main.py > outsapph_wipe.txt
+ 2603  exit
+ 2602  sudo apt-get upgrade
+ 2601  sudo apt-upgrade
+ 2600  sudo apt-get update
+ 2599  python main.py > outspeed.txt
+ 2598  python main.py > out0303.txt
+ 2597  python main.py
+ 2596  python main.py > out0303.txt
+ 2595  python main.py > out0224.txt
+ 2594  python Bresnahan_5g_5a_byer_1.ipynb
+ 2593  cd oli_test
+ 2592  cd ..
+ 2591  python main.py > out0217.txt
+ 2590  python main.py > out0210.txt
+ 2589  python main.py
+ 2588  code
+ 2587  sudo apt-get upgrade
+ 2586  sudo apt-get update
+ 2585  python main.py > out.txt
+ 2584  python main.py
+ 2583  sudo apt-get upgrade
+ 2582  sudo apt-get update
+ 2581  python main.py > out.txt
+ 2580  python
+ 2579  python main.py > out.txt
+ 2578  python
+ 2577  python main.py > out.txt
+ 2576  python main.py
+ 2575  python test.py
+ 2574  python main.py
+ 2573  python test.py
+ 2572  python main.py
+ 2571  mkdir input
+ 2570  cd super_deducter
+ 2569  mkdir super_deducter
+ 2568  ls
+ 2567  cd python
+ 2566  ls
+ 2565  cd Documents
+ 2564  sudo apt-get install code
+ 2563  sudo apt-get update
+ 2562  ls
+ 2561  cd FissureTracker
+ 2560  cd ../..
+ 2559  git clone https://github.com/Bentebent/FissureTracker
+ 2558  cd ..
+ 2557  python humancannonball2/humancannonball2.py < humancannonball2/1.in
+ 2556  python
+ 2555  black humancannonball2
+ 2554  python humancannonball2/humancannonball2.py < humancannonball2/1.in
+ 2553  black humancannonball2
+ 2552  black transitwoes
+ 2551  black
+ 2550  python transitwoes/transitwoes.py < transitwoes/1.in
+ 2549  python transitwoes/transitwoes.py < transitwoes/2.in
+ 2548  python transitwoes/transitwoes.py < transitwoes/1.in
+ 2547  python
+ 2546  python transitwoes/transitwoes.py < transitwoes/1.in
+ 2545  python chanukah/chanukah.py < chanukah/1.in
+ 2544  python chanukah/chanukah.py
+ 2543  cd ..
+ 2542  python fizz_buzz.py < 1.in
+ 2541  cd Documents/python/kattis/fizz-buzz
+ 2540  cd 
+ 2539  python piece_of_cake.py < 1.in
+ 2538  python piece_of_cake.py | 1.in
+ 2537  python piece_of_cake.py | input/1.in
+ 2536  input/1.in | python piece_of_cake.py
+ 2535  cd ..
+ 2534  chmod u=rwx *.in
+ 2533  cd input
+ 2532  input/1.in | python piece_of_cake.py
+ 2531  python piece_of_cake.py 10 4 7
+ 2530  input/1.in | python piece_of_cake.py
+ 2529  python piece_of_cake.py| input/1.in
+ 2528  input/1.in | python piece_of_cake.py
+ 2527  cd piece-of-cake
+ 2526  python piece_of_cake.py 10 4 7
+ 2525  python piece_of_cake.py 10 4
+ 2524  python piece_of_cake.py 10 4 7
+ 2523  python piece_of_cake.py
+ 2522  y
+ 2521  sudo apt-get update
+ 2520  sudo apt-update
+ 2519  python score_analyzer.py first_dom_vs_gen
+ 2518  python encode_in_cnf.py --emb input/graphs/patterns/k3.gr input/graphs/patterns/square.gr
+ 2517  python encode_in_cnf.py --hom input/graphs/patterns/k3.gr input/graphs/patterns/square.gr
+ 2516  python score_analyzer.py first_dom_vs_gen
+ 2515  python encode_in_cnf.py --emb input/graphs/patterns/k3.gr input/graphs/patterns/house.gr
+ 2514  python encode_in_cnf.py --hom input/graphs/patterns/k3.gr input/graphs/patterns/house.gr
+ 2513  python main.py
+ 2512  python main.py > output.txt
+ 2511  black *.py
+ 2510  python main.py > output.txt
+ 2509  black *.py
+ 2508  python main.py > output.txt
+ 2507  black *.py
+ 2506  python main.py > output.txt
+ 2505  black *.py
+ 2504  black *.py --config=./pyproject.toml --verbose
+ 2503  python main.py > output.txt
+ 2502  python main.py > output.html
+ 2501  python main.py > output.txt
+ 2500  python -m pip install requests_html
+ 2499  python main.py > output.txt
+ 2498  python main.py > output.html
+ 2497  python main.py > output.text
+ 2496  python main.py
+ 2495  python -m pip install lxml
+ 2494  python --version
+ 2493  python3 main.py
+ 2492  python3
+ 2491  python main.py
+ 2490  pip3 install lxml
+ 2489  pip install lxml
+ 2488  shutdown
+ 2487  git push
+ 2486  git commit -m "final"
+ 2485  git add .
+ 2484  cd ..
+ 2483  python score_analyzer.py "test_small_problems"
+ 2482  python main.py
+ 2481  python
+ 2480  git push
+ 2479  git commit -m "Finally final"
+ 2478  git add .
+ 2477  ls
+ 2476  cd Documents/research/k-sat
+ 2475  CD Documents/research/k-sat
+ 2474  y
+ 2473  exit
+ 2472  git push
+ 2471  git commit -m "final"
+ 2470  git add .
+ 2469  cd ..
+ 2468  python graph_stats.py > results/graph_stats.csv
+ 2467  python graph_stats.py > results/real_world_graph_stats.csv
+ 2466  python graph_stats.py > results/graph_stats.csv
+ 2465  python
+ 2464  black *.py --config=./pyproject.toml --verbose
+ 2463  python graph_stats.py > results/graph_stats.csv
+ 2462  python graph_stats.py
+ 2461  python score_analyzer.py first_dom_vs_gen
+ 2460  cd Documents/research/k-sat/src
+ 2459  python
+ 2458  python score_analyzer.py first_dom_vs
+ 2457  isort main.py
+ 2456  black *.py --config=./pyproject.toml --verbose
+ 2455  python score_analyzer.py first_dom_vs
+ 2454  black *.py --config=./pyproject.toml --verbose
+ 2453  git push
+ 2452  git commit -m"almost final"
+ 2451  git add .
+ 2450  cd ..
+ 2449  python
+ 2448  cd Documents/research/k-sat/src
+ 2447  python main.py
+ 2446  echo "kan du nu?"
+ 2445  python main.py
+ 2444  echo "kan du nu?"
+ 2443  python main.py
+ 2442  python
+ 2441  top
+ 2440  python encode_in_cnf.py --emb input/graphs/patterns/k3.gr input/graphs/patterns/house.gr
+ 2439  python
+ 2438  python encode_in_cnf.py --emb input/graphs/patterns/k3.gr input/graphs/patterns/house.gr
+ 2437  top
+ 2436  ../sharpSAT/build/Release/sharpSAT input/generated-hom-sub/cnf-hom-h-k3-g-house-2.cnf
+ 2435  ../sharpSAT/build/Release/sharpSAT input/generated-hom-sub/cnf-hom-h-k3-g-house.cnf
+ 2434  python encode_in_cnf.py --hom input/graphs/patterns/k3.gr input/graphs/patterns/house.gr
+ 2433  ../sharpSAT/build/Release/sharpSAT input/generated-hom-sub/cnf-hom-h-k3-g-house.cnf
+ 2432  ../sharpSAT/build/Release/sharpSAT input/generated-hom-sub/cnf-hom-h-k3-g-house-2.cnf
+ 2431  python encode_in_cnf.py --hom input/graphs/patterns/k3.gr input/graphs/patterns/house.gr
+ 2430  python
+ 2429  cd Documents/research/k-sat/src
+ 2428  ls
+ 2427  ./experiments -count-sub -h ../../../src/input/graphs/patterns/k3.gr -g ../../../src/input/graphs/patterns/house.gr
+ 2426  ./experiments -count-hom -h ../../../src/input/graphs/patterns/k3.gr -g ../../../src/input/graphs/patterns/house.gr
+ 2425  ./experiments -count-sub -h ../../../src/input/graphs/patterns/k3.gr -g ../../../src/input/graphs/patterns/trianglehouse.gr
+ 2424  ./experiments -count-hom -h ../../../src/input/graphs/patterns/k3.gr -g ../../../src/input/graphs/patterns/trianglehouse.gr
+ 2423  ./experiments ../../../src/input/graphs/patterns/k3.gr ../../../src/input/graphs/patterns/trianglehouse.gr
+ 2422  ls
+ 2421  cd Documents/research/k-sat/SubgraphThesis/experiments-build/experiments
+ 2420  python
+ 2419  python score-analyzer.py
+ 2418  python domain_general_experiment.py
+ 2417  cat results/pattern-results.csv
+ 2416  python score-analyzer.py
+ 2415  cd ../k-sat/src
+ 2414  cat results/densities.txt
+ 2413  python graph_density.py > results/densities.txt
+ 2412  cat results/densities.txt
+ 2411  python graph_density.py > results/densities.txt
+ 2410  cat results/densities.txt
+ 2409  python graph_density.py > results/densities.txt
+ 2408  cat results/densities.txt
+ 2407  python graph_density.py > results/densities.txt
+ 2406  python graph_density.py
+ 2405  python
+ 2404  python graph_density.py
+ 2403  cd Documents/research/k-sat/src
+ 2402  python
+ 2401  lsb_release -a
+ 2400  ubuntu --version
+ 2399  sysctl hw.physicalcpu hw.logicalcpu
+ 2398  cat /proc/meminfo
+ 2397  lscpu
+ 2396  lscup
+ 2395  cat /proc/cpuinfo
+ 2394  python domain_general_experiment.py
+ 2393  cd src
+ 2392  exit
+ 2391  python domain_general_experiment.py
+ 2390  cat input/generated-hom-sub/cnf-emb-h-example-g-sts-13.cnf
+ 2389  python domain_general_experiment.py
+ 2388  cd src
+ 2387  python domain_general_experiment.py
+ 2386  python
+ 2385  cd Documents/research/k-sat/src
+ 2384  head -20 src/input/generated-hom-sub/cnf-emb-h-cycle5-g-grid-w-3-5.cnf
+ 2383  cat src/input/generated-hom-sub/cnf-emb-h-cycle5-g-grid-w-3-5.cnf
+ 2382  h-cycle5-g-grid-w-3-5
+ 2381  cd src
+ 2380  cd s
+ 2379  python score-analyzer.py
+ 2378  python
+ 2377  mkdir results
+ 2376  python score-analyzer.py
+ 2375  cd src
+ 2374  python domain_general_experiment.py
+ 2373  python score-analyzer.py
+ 2372  black *.py --config=./pyproject.toml --verbose
+ 2371  cd src
+ 2370  black *.py --config=./pyproject.toml --verbose
+ 2369  from pandas import DataFrame, concat, read_csv
+ 2368  read_csv("src/input/first_dom_vs_gen-10-08-2020-09-20")
+ 2367  /usr/bin/python /home/andre/.vscode/extensions/ms-python.python-2020.8.101144/pythonFiles/pyvsc-run-isolated.py /home/andre/.vscode/extensions/ms-python.python-2020.8.101144/pythonFiles/shell_exec.py /usr/bin/python /home/andre/.vscode/extensions/ms-python.python-2020.8.101144/pythonFiles/pyvsc-run-isolated.py pip install -U ipykernel --user /tmp/tmp-3948iUKUdMxEuT5K.log
+ 2366  /usr/bin/python
+ 2365  python
+ 2364  python domain_general_experiment.py
+ 2363  python
+ 2362  cd src
+ 2361  python domain_general_experiment.py
+ 2360  python
+ 2359  python domain_general_experiment.py
+ 2358  cd src
+ 2357  python domain_general_experiment.py
+ 2356  ./sharpSAT -t 1 ../../../src/input/generated-input/cnf-hom-h-cycle5-g-paley-101.cnf
+ 2355  ./sharpSAT -t 10 ../../../src/input/generated-input/cnf-hom-h-cycle5-g-paley-101.cnf
+ 2354  ./sharpSAT -t 1 ../../../src/input/generated-hom-sub/cnf-hom-h-square-g-cfi-40.cnf
+ 2353  ./sharpSAT -t 2 ../../../src/input/generated-hom-sub/cnf-hom-h-square-g-cfi-40.cnf
+ 2352  ./sharpSAT 
+ 2351  ./sharpSAT -help
+ 2350  ./sharpSAT --help
+ 2349  ls
+ 2348  cd Documents/research/k-sat/sharpSAT/build/Release/
+ 2347  python domain_general_experiment.py
+ 2346  python
+ 2345  black *.py --config=./pyproject.toml --verbose
+ 2344  python
+ 2343  src
+ 2342  python
+ 2341  python domain_general_experiment.py
+ 2340  python
+ 2339  cd src
+ 2338  python
+ 2337  python domain_general_experiment.py
+ 2336  python hom_sub_sanity_check.py
+ 2335  python domain_general_experiment.py
+ 2334  cd src/
+ 2333  python domain_general_experiment.py
+ 2332  python hom_sub_sanity_check.py
+ 2331  black *.py --config=./pyproject.toml --verbose
+ 2330  isort domain_general_experiment.py
+ 2329  python
+ 2328  python hom_sub_sanity_check.py
+ 2327  black *.py --config=./pyproject.toml --verbose
+ 2326  python
+ 2325  24*6
+ 2324  ./../sharpSAT/build/Release/sharpSAT generated-hom-sub-input/cnf-emb-h-k3-g-paley-13.cnf
+ 2323  python encode_in_cnf.py --emb input/graphs/patterns/k3.gr input/graphs/paley/paley-13.gr
+ 2322  ./../SubgraphThesis/experiments-build/experiments/experiments -count-sub -h input/graphs/patterns/k3.gr -g input/graphs/paley/paley-13.gr
+ 2321  approxmc3 generated-input/myFile2.cnf
+ 2320  approxmc3 generated-input/myFile.cnf
+ 2319  python hom_sub_sanity_check.py
+ 2318  ./../SubgraphThesis/experiments-build/experiments/experiments -count-hom -h input/graphs/patterns/k3.gr -g input/graphs/patterns/k3.gr
+ 2317  ./../sharpSAT/build/Release/sharpSAT generated-hom-sub-input/cnf-hom-h-k3-g-k3.cnf
+ 2316  python encode_in_cnf.py --hom input/graphs/patterns/k3.gr input/graphs/patterns/k3.gr
+ 2315  ./../sharpSAT/build/Release/sharpSAT generated-hom-sub-input/cnf-hom-h-k3-g-k3.cnf
+ 2314  python encode_in_cnf.py --hom input/graphs/patterns/k3.gr input/graphs/patterns/k3.gr
+ 2313  ./../SubgraphThesis/experiments-build/experiments/experiments -count-hom -h input/graphs/patterns/k3.gr -g input/graphs/patterns/k3.gr
+ 2312  ./../SubgraphThesis/experiments-build/experiments/experiments -count-hom -h input/graphs/patterns/k3.gr -g input/graphs/paley/paley-13.gr
+ 2311  ./../sharpSAT/build/Release/sharpSAT generated-hom-sub-input/cnf-hom-h-k3-g-paley-13.cnf
+ 2310  python encode_in_cnf.py --hom input/graphs/patterns/k3.gr input/graphs/paley/paley-13.gr
+ 2309  python --hom encode_in_cnf.py input/graphs/patterns/k3.gr input/graphs/paley/paley-13.gr
+ 2308  python encode_in_cnf.py input/graphs/patterns/k3.gr input/graphs/paley/paley-13.gr
+ 2307  pythone encode_in_cnf.py input/graphs/patterns/k3.gr input/graphs/paley/paley-13.gr
+ 2306  ./../SubgraphThesis/experiments-build/experiments/experiments -count-hom -h input/graphs/patterns/k3.gr -g input/graphs/paley/paley-13.gr
+ 2305  ./../SubgraphThesis/experiments-build/experiments/experiments -count-sub -h input/graphs/patterns/k3.gr -g input/graphs/paley/paley-13.gr
+ 2304  ./../sharpSAT/build/Release/sharpSAT generated-hom-sub-input/cnf-hom-h-k3-g-paley-13.cnf
+ 2303  ./../SubgraphThesis/experiments-build/experiments/experiments -count-sub -h input/graphs/patterns/square.gr -g input/graphs/paley/paley-101.gr
+ 2302  python hom_sub_sanity_check.py
+ 2301  ./../SubgraphThesis/experiments-build/experiments/experiments -count-sub -h input/graphs/patterns/square.gr -g input/graphs/paley/paley-101.gr
+ 2300  ./../SubgraphThesis/experiments-build/experiments/experiments -count-hom -h input/graphs/patterns/square.gr -g input/graphs/paley/paley-101.gr
+ 2299  ./../SubgraphThesis/experiments-build/experiments/experiments -count-sub -h input/graphs/patterns/square.gr -g input/graphs/kublenz/euroroads.gr
+ 2298  ./../SubgraphThesis/experiments-build/experiments/experiments -count-sub -h input/graphs/patterns/cycle5.gr -g input/graphs/kublenz/euroroads.gr
+ 2297  ./../SubgraphThesis/experiments-build/experiments/experiments -count-hom -h input/graphs/patterns/cycle5.gr -g input/graphs/kublenz/euroroads.gr
+ 2296  python
+ 2295  ./../SubgraphThesis/experiments-build/experiments/experiments -count-sub -h input/graphs/patterns/trianglehouse.gr -g input/graphs/kublenz/euroroads.gr
+ 2294  ./../SubgraphThesis/experiments-build/experiments/experiments -count-hom -h input/graphs/patterns/trianglehouse.gr -g input/graphs/kublenz/euroroads.gr
+ 2293  ./../SubgraphThesis/experiments-build/experiments/experiments -count-hom -h input/graphs/patterns/trianglehouse.gr -g input/graphs/paley/paley-101.gr
+ 2292  ./../SubgraphThesis/experiments-build/experiments/experiments -count-sub -h input/graphs/patterns/trianglehouse.gr -g input/graphs/paley/paley-101.gr
+ 2291  ./../SubgraphThesis/experiments-build/experiments/experiments -count-sub -h input/graphs/patterns/trianglehouse.gr -g input/graphs/paley/paley-197.gr
+ 2290  ./../SubgraphThesis/experiments-build/experiments/experiments -count-sub -h input/graphs/patterns/cycle5.gr -g input/graphs/paley/paley-197.gr
+ 2289  ./../SubgraphThesis/experiments-build/experiments/experiments -count-hom -h input/graphs/patterns/cycle5.gr -g input/graphs/paley/paley-101.gr
+ 2288  ./../SubgraphThesis/experiments-build/experiments/experiments -count-sub -h input/graphs/patterns/cycle5.gr -g input/graphs/paley/paley-101.gr
+ 2287  ./../SubgraphThesis/experiments-build/experiments/experiments -count-sub -h input/graphs/patterns/square.gr -g input/graphs/paley/paley-101.gr
+ 2286  ./../SubgraphThesis/experiments-build/experiments/experiments -count-hom -h input/graphs/patterns/square.gr -g input/graphs/paley/paley-101.gr
+ 2285  cd src
+ 2284  git push
+ 2283  git commit -m "added sanity check, still insane"
+ 2282  git add .
+ 2281  cd ..
+ 2280  python
+ 2279  python hom_sub_sanity_check.py > input/cnf-test/sanity-check-log-05-08.log
+ 2278  python hom_sub_sanity_check.py
+ 2277  black *.py --config=./pyproject.toml --verbose
+ 2276  python hom_sub_sanity_check.py
+ 2275  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-hom -h input/graphs/patterns/k3.gr -g input/graphs/patterns/k3.gr
+ 2274  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-sub -h input/graphs/patterns/k3.gr -g input/graphs/patterns/k3.gr
+ 2273  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-hom -h input/graphs/patterns/cycle5.gr -g input/graphs/paley/paley-101.gr
+ 2272  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-sub -h input/graphs/patterns/cycle5.gr -g input/graphs/paley/paley-101.gr
+ 2271  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-sub -h input/graphs/patterns/k3.gr -g input/graphs/patterns/example.gr
+ 2270  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-sub -h input/graphs/patterns/k3.gr -g input/graphs/paley/paley-13.gr
+ 2269  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-hom -h input/graphs/patterns/k3.gr -g input/graphs/paley/paley-13.gr
+ 2268  ./../sharpSAT/build/Release/sharpSAT generated-hom-sub-input/cnf-hom-h-k3-g-paley-13.cnf
+ 2267  python encode_in_cnf.py --hom input/graphs/patterns/k3.gr input/graphs/paley/paley-13.gr
+ 2266  ./../sharpSAT/build/Release/sharpSAT generated-input/cnf-emb-h-k3-g-example.cnf
+ 2265  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-hom -h input/graphs/patterns/k3.gr -g input/graphs/patterns/example.gr
+ 2264  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-sub -h input/graphs/patterns/cycle5.gr -g input/graphs/paley/paley-101.gr
+ 2263  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-hom -h input/graphs/patterns/cycle5.gr -g input/graphs/paley/paley-101.gr
+ 2262  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-hom -h input/graphs/patterns/cycle5 -g input/graphs/paley/paley-101.gr
+ 2261  cd src/
+ 2260  ./../sharpSAT/build/Release/sharpSAT generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 2259  cd Documents/research/k-sat/src
+ 2258  python
+ 2257  cat input/cnf-test/cnf-hom-h-example-g-k-5.cnf
+ 2256  ./../sharpSAT/build/Release/sharpSAT input/cnf-test/cnf-hom-h-example-g-k-5.cnf
+ 2255  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-hom -h input/graphs-test/patterns/example.gr -g input/graphs-test/k/k-5.gr
+ 2254  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-sub -h input/graphs-test/patterns/example.gr -g input/graphs-test/k/k-5.gr
+ 2253  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-sub -h input/graphs-test/k/k-5.gr -g input/graphs-test/k/k-5.gr
+ 2252  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-sub -h input/graphs-test/patterns/k/k-5.gr -g input/graphs-test/k/k-5.gr
+ 2251  python
+ 2250  python hom_sub_sanity_check.py
+ 2249  python
+ 2248  isort count_homomorphism.py
+ 2247  python hom_sub_sanity_check.py
+ 2246  cd src
+ 2245  python
+ 2244  approxmc3 generated-input/myFile.cnf
+ 2243  ./../sharpSAT/build/Release/sharpSAT generated-input/myFile.cnf
+ 2242  ./../sharpSAT/build/Release/sharpSAT generated-input/myFile2.cnf
+ 2241  ./../sharpSAT/build/Release/sharpSAT input/inputFile-2.txt
+ 2240  approxmc3 input/inputFile-2.txt
+ 2239  approxmc3 input/inputFile-1.txt
+ 2238  ./mis.py ../src/input/inputFile-1.txt
+ 2237  approxmc3 input/inputFile-1.txt
+ 2236  approxmc3 generated-input/myFile.cnf
+ 2235  approxmc4 input/simpleCNF.txt
+ 2234  approxmc3 generated-input/myFile.cnf
+ 2233  approxmc4 generated-input/myFile.cnf
+ 2232  approxmc4 input/simpleCNF.txt
+ 2231  approxmc3 input/simpleCNF.txt
+ 2230  approxmc3 generated-input/myFile.cnf
+ 2229  approxmc3 input/simpleCNF.txt
+ 2228  ./mis.py ../src/input/simpleCNF.txt
+ 2227  ./mis.py ../src/generated-input/myFile2.cnf
+ 2226  cd ../mis
+ 2225  approxmc3 generated-input/myFile2.cnf
+ 2224  python
+ 2223  approxmc3 generated-input/myFile2.cnf
+ 2222  approxmc generated-input/myFile2.cnf
+ 2221  python
+ 2220  black *.py --config=./pyproject.toml --verbose
+ 2219  python
+ 2218  black *.py --config=./pyproject.toml --verbose
+ 2217  python
+ 2216  isort count_exact.py
+ 2215  ./../sharpSAT/build/Release/sharpSAT -t 60 generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 2214  ./../sharpSAT/build/Release/sharpSAT
+ 2213  ./../sharpSAT/build/Release/sharpSAT --help
+ 2212  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-hom -h input/graphs/patterns/k3.gr -g input/graphs/paley/paley-101.gr
+ 2211  ./../SubgraphThesis/experiments-build/experiments/experiments  -count-sub -h input/graphs/patterns/k3.gr -g input/graphs/paley/paley-101.gr
+ 2210  ./../SubgraphThesis/experiments-build/experiments/experiments  -count -h input/graphs/patterns/k3.gr -g input/graphs/paley/paley-101.gr
+ 2209  cd src
+ 2208  ./build.sh
+ 2207  nano CMakeLists.txt
+ 2206  ls
+ 2205  ./build.sh
+ 2204  g++ --version
+ 2203  sh build-third-party.sh
+ 2202  git submodule update
+ 2201  git submodule init
+ 2200  cd SubgraphThesis
+ 2199  git clone https://github.itu.dk/jonmo/SubgraphThesis.git
+ 2198  ls
+ 2197  cd Documents/research/k-sat
+ 2196  ls
+ 2195  cd ..
+ 2194  sudo apt install build-essential
+ 2193  sudo apt install g++
+ 2192  sudo apt-get update
+ 2191  sudo apt-get purge g++
+ 2190  g++ --version
+ 2189  sudo apt install build-essential
+ 2188  sudo apt install g++
+ 2187  g++ --version
+ 2186  ./build.sh
+ 2185  sh build-third-party.sh
+ 2184  git submodule update
+ 2183  git submodule init
+ 2182  cd SubgraphThesis
+ 2181  git submodule init
+ 2180  git clone https://github.itu.dk/jonmo/SubgraphThesis.git
+ 2179  cd 
+ 2178  ./build.sh
+ 2177  cd ../..
+ 2176  sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-6 20 --slave /usr/bin/g++ g++ /usr/bin/g++-6
+ 2175  sudo apt-get install gcc-6 g++-6
+ 2174  sudo apt-get update
+ 2173  sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
+ 2172  g++ --version
+ 2171  python
+ 2170  cd src
+ 2169  python
+ 2168  git push
+ 2167  git commit -m "added input unifier, patterns and solvers"
+ 2166  git add .
+ 2165  cd ..
+ 2164  python
+ 2163  ./../sharpSAT/build/Release/sharpSAT generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 2162  python
+ 2161  cd src
+ 2160  python
+ 2159  approxmc4 --help
+ 2158  approxmc4 generated-input/myFile2.cnf
+ 2157  cd Documents/research/k-sat/src
+ 2156  ls
+ 2155  cd experiments-build/experiments
+ 2154  ./build.sh
+ 2153  sh build-third-party.sh
+ 2152  git submodule update
+ 2151  git submodule init
+ 2150  cd SubgraphThesis
+ 2149  git clone https://github.itu.dk/jonmo/SubgraphThesis.git
+ 2148  cd ..
+ 2147  ./build.sh
+ 2146  ls
+ 2145  sh build-third-party.sh
+ 2144  git submodule update
+ 2143  git submodule init
+ 2142  cd ../..
+ 2141  git submudole update
+ 2140  ./experiments -count -hom -h ../../../src/input/graphs/patterns/cycle5.gr -g ../../../src/input/graphs/paley/paley-101.gr
+ 2139  cd experiments-build/experiments
+ 2138  git pull
+ 2137  git status
+ 2136  cd Documents/research/k-sat/SubgraphThesis
+ 2135  python
+ 2134  30+30
+ 2133  python
+ 2132  pytho
+ 2131  approxmc3 -h
+ 2130  approxmc3 --help
+ 2129  black *.py --config=./pyproject.toml --verbose
+ 2128  python
+ 2127  Y
+ 2126  isort
+ 2125  black *.py --config=./pyproject.toml --verbose
+ 2124  cd src
+ 2123  approxmc4 ../src/generated-input/myFile.cnf
+ 2122  ./mis.py ../src/generated-input/myFile.cnf
+ 2121  ./mis ../src/generated-input/myFile.cnf
+ 2120  cd ../mis
+ 2119  python
+ 2118  approxmc3 generated-input/myFile.cnf
+ 2117  python
+ 2116  cat input/output.txt
+ 2115  cat input/output
+ 2114  cd Documents/research/k-sat/src
+ 2113  python
+ 2112  pyt
+ 2111  python
+ 2110  cd src
+ 2109  cd Documents/research/k-sat
+ 2108  cd ~
+ 2107  ls
+ 2106  sudo mv approxmc approxmc3
+ 2105  ls
+ 2104  cd /usr/local/bin
+ 2103  python
+ 2102  approxmc4 src/generated-input/myFile.cnf
+ 2101  approxmc --help
+ 2100  /usr/bin/python
+ 2099  black *.py --config=./pyproject.toml --verbose
+ 2098  approxmc4 generated-input/myFile.cnf
+ 2097  python compute_ind_set.py
+ 2096  cd src
+ 2095  nano ~/.bashrc
+ 2094  ./mis.py ../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf --out ../src/input/comp-ind.ind
+ 2093  ./mis.py ../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf --output ../src/input/comp-ind.ind
+ 2092  ./mis.py ../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 2091  ./mis.py ../src/generated-input/myFile2.cnf
+ 2090  cd mis
+ 2089  ./mis/mis.py src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 2088  cd Documents/research/k-sat/
+ 2087  python
+ 2086  python src/compute-ind-set.py
+ 2085  python compute-ind-set.py
+ 2084  nano ~/.bashrc
+ 2083  nano \.bashrc
+ 2082  python compute-ind-set.py
+ 2081  cd src
+ 2080  python mis.py ../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 2079  docker run --rm -v 'pwd'/myFile2.cnf:/in msoos/mis --timeout 300 /n
+ 2078  cat mis.py
+ 2077  python mis.py ../src/generated-input/myFile2.cnf
+ 2076  ./mis.py cd ../src/generated-input/myFile2.cnf
+ 2075  python mis.py cd ../src/generated-input/myFile2.cnf
+ 2074  ls
+ 2073  make
+ 2072  git submodule update --init
+ 2071  cd mis
+ 2070  sudo apt-get install minisat2 zlib1g-dev g++
+ 2069  git clone https://github.com/meelgroup/mis.git
+ 2068  cd Documents/research/k-sat
+ 2067  cd ~
+ 2066  docker run --help
+ 2065  docker run --rm -v 'pwd'/myFile2.cnf:/in msoos/mis --timeout 300 /n
+ 2064  docker
+ 2063  docker --version
+ 2062  sudo apt install docker.io
+ 2061  sudo apt-get remove docker docker-engine docker.io
+ 2060  sudo apt-get update
+ 2059  cat myFile2.cnf
+ 2058  $ cat myFile2.cnf
+ 2057  approxmc4 myFile2.cnf
+ 2056  nano myFile2.cnf
+ 2055  approxmc4 myFile2.cnf
+ 2054  approxmc4 myFile.cnf
+ 2053  approxmc myFile2.cnf
+ 2052  nano myFile2.cnf
+ 2051  approxmc myFile2.cnf
+ 2050  approxmc myFile.cnf
+ 2049  sudo make install
+ 2048  cd build
+ 2047  cd approxmc3/approxmc
+ 2046  ls
+ 2045  cd Desktop
+ 2044  approxmc4 myFile.cnf
+ 2043  sudo mv approxmc2 approxmc4
+ 2042  approxmc2 myFile.cnf
+ 2041  ls
+ 2040  cd Documents/research/k-sat/src/generated-input/
+ 2039  ls
+ 2038  sudo mv approxmc approxmc2
+ 2037  mv approxmc approxmc2
+ 2036  ls
+ 2035  cd /usr/local/bin
+ 2034  cat /usr/local/bin/approxmc
+ 2033  which approxmc
+ 2032  echo $PATH
+ 2031  echo PATH
+ 2030  make
+ 2029  cmake ..
+ 2028  mkdir build && cd build
+ 2027  cd approxmc
+ 2026  git clone https://github.com/meelgroup/approxmc/
+ 2025  >git clone https://github.com/meelgroup/approxmc/
+ 2024  git clone https://github.com/msoos/cryptominisat
+ 2023  cd approxmc3
+ 2022  mkdir approxmc3
+ 2021  ls
+ 2020  cd ~/Desktop/
+ 2019  approxmc generated-input/myFile2.cnf
+ 2018  cat generated-input/myFile2.cnf
+ 2017  cat generated-input/myFile.cnf
+ 2016  ls
+ 2015  cat myFile.cnf
+ 2014  approxmc generated-input/myFile.cnf
+ 2013  cd Documents/research/k-sat/src
+ 2012  ./run_ganak.sh ../../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 2011  cd ../ganak/scripts
+ 2010  make
+ 2009  cmake ..
+ 2008  mkdir build && cd build
+ 2007  git checkout approxmc3
+ 2006  git tag
+ 2005  git tags
+ 2004  git log
+ 2003  ls
+ 2002  git checkout ver2
+ 2001  cd approxmc
+ 2000  git log
+ 1999  ls
+ 1998  git checkout ver2
+ 1997  git clone https://github.com/meelgroup/approxmc
+ 1996  git clone https://github.com/meelgroup/approxmc/tree/approxmc
+ 1995  git config --file .gitmodules --name-only --get-regexp path
+ 1994  git config --file .gitmodules --get-regexp path | awk '{print $2}'
+ 1993  git submodule
+ 1992  git submodule add --name approxmc2 https://github.com/meelgroup/approxmc/tree/approxmc2
+ 1991  git submodule add --name approxmc2 https://github.com/meelgroup/approxmc/tree/approxmc
+ 1990  cd approxmc2
+ 1989  git submodule add --name approxmc2 https://github.com/meelgroup/approxmc/tree/approxmc
+ 1988  cd ..
+ 1987  rm SubgraphThesis
+ 1986  ls
+ 1985  git submodule add --name SubgraphThesis https://github.itu.dk/jonmo/SubgraphThesis
+ 1984  git add --name SubgraphThesis https://github.itu.dk/jonmo/SubgraphThesis
+ 1983  git submodule init
+ 1982  git config --file .gitmodules --get-regexp path | awk '{print $2}'
+ 1981  git config --file .gitmodules --name-only --get-regexp path
+ 1980  git status
+ 1979  git push
+ 1978  git commit -m "encoder working correctly, and input conversion sorted"
+ 1977  git add .
+ 1976  git status
+ 1975  git submodule update --checkout ver2
+ 1974  git submodule add https://github.com/meelgroup/approxmc
+ 1973  cd approxmc2
+ 1972  git submodule
+ 1971  git submodules
+ 1970  cd ..
+ 1969  git submodule
+ 1968  git submodule update --checkout ver2
+ 1967  git submodule update checkout ver2
+ 1966  git submodule checkout ver2
+ 1965  git log
+ 1964  git checkout ver2
+ 1963  cd ..
+ 1962  git checkout ver2
+ 1961  cd approxmc
+ 1960  git checkout ver2
+ 1959  git clone https://github.com/meelgroup/approxmc
+ 1958  cd ../../approxmc2
+ 1957  approxmc --seed 5 myFile.cnf
+ 1956  approxmc --seed 5 myFile2.cnf
+ 1955  approxmc myFile2.cnf
+ 1954  nano
+ 1953  approxmc myFile.cnf
+ 1952  nano
+ 1951  approxmc cnf-emb-h-k3-g-example.cnf
+ 1950  ls
+ 1949  cd generated-input/
+ 1948  approxmc input/simpleCNF.txt
+ 1947  cd ../../src
+ 1946  sudo make install
+ 1945  make
+ 1944  cmake ..
+ 1943  sudo apt-get install zlib1g-dev libboost-program-options-dev libm4ri-dev
+ 1942  sudo apt-get install zlibb1g-dev libboost-program-options-dev libm4ri-dev
+ 1941  sudo apt-get install build-essential cmake
+ 1940  cmake ..
+ 1939  mkdir build && cd build
+ 1938  cd approxmc
+ 1937  git clone https://github.com/meelgroup/approxmc/
+ 1936  ls
+ 1935  rmdir approxmc
+ 1934  cd ..
+ 1933  rmdir build
+ 1932  cd ..
+ 1931  rmdir CMakeFiles
+ 1930  cd ..
+ 1929  ls
+ 1928  rmdir Progress
+ 1927  cd ..
+ 1926  ls
+ 1925  sudo rm *
+ 1924  cd Documents/research/k-sat/approxmc/build/CMakeFiles/Progress
+ 1923  rmdir approxmc
+ 1922  rm approxmc
+ 1921  ls
+ 1920  git clone https://github.com/meelgroup/approxmc/
+ 1919  cd ../..
+ 1918  cmake ..
+ 1917  cd build
+ 1916  cd ..
+ 1915  mkdir build && cd build\ncmake ..\nmake\nsudo make install
+ 1914  cd approxmc
+ 1913  git clone https://github.com/meelgroup/approxmc/
+ 1912  cd ../..
+ 1911  sudo make install
+ 1910  make
+ 1909  cmake -DUKE_GAUSS=ON ..
+ 1908  mkdir build && cd build
+ 1907  cd cryptominisat
+ 1906  git clone https://github.com/msoos/cryptominisat
+ 1905  git clone git clone https://github.com/msoos/cryptominisat
+ 1904  cd ..
+ 1903  python input-unifier.py
+ 1902  ./../SubgraphThesis/experiments-build/experiments/experiments -count -h input/graphs/patterns/k3.gr -g input/test-graph/mz/mz-22.gr
+ 1901  ./../SubgraphThesis/experiments-build/experiments/experiments -count -h input/graphs/patterns/k3.gr input/test-graph/mz/mz-22.gr
+ 1900  cd Documents/research/k-sat/src
+ 1899  cd ~
+ 1898  cd..
+ 1897  cd ..
+ 1896  python input-unifier.py
+ 1895  ls
+ 1894  cd mz
+ 1893  ls
+ 1892  cd __MACOSX
+ 1891  ls
+ 1890  cd mz
+ 1889  ls
+ 1888  cd input/test-unfixed
+ 1887  cd Documents/research/k-sat/src
+ 1886  python input-unifier.py
+ 1885  cd src
+ 1884  python input-unifier.py
+ 1883  ./../SubgraphThesis/experiments-build/experiments/experiments -count -h input/graphs/patterns/k3.gr -g input/graphs/paley/paley/paley-5.gr 
+ 1882  ./../SubgraphThesis/experiments-build/experiments/experiments -count -h input/graphs/patterns/k3.gr -g input/graphs/paley/paley/paley-5 
+ 1881  cd ..
+ 1880  ls
+ 1879  rm *.zip
+ 1878  ls
+ 1877  cd src/input/graphs
+ 1876  exit
+ 1875  ./sharpSAT -cs 1350 ../../../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 1874  ./sharpSAT -cs 1300 ../../../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 1873  ./sharpSAT -cs 1200 ../../../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 1872  ./sharpSAT -cs 1500 ../../../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 1871  ./sharpSAT -cs 1800 ../../../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 1870  ./sharpSAT -cs 2000 ../../../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 1869  ./sharpSAT -cs 1000 ../../../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 1868  ./sharpSAT -cs 300 ../../../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 1867  python test_encoder.py
+ 1866  python
+ 1865  ./sharpSAT ../../../src/generated-input/cnf-emb-h-cycle5-g-paley-101.cnf
+ 1864  ./sharpSAT ../../../src/generated-input/cnf-emb-h-cycle5-g-paley101.cnf
+ 1863  python test_encoder.py
+ 1862  black *.py --config=./pyproject.toml --verbose
+ 1861  python
+ 1860  python encode_in_cnf.py --emb input/graphs/k3.gr input/graphs/example.gr
+ 1859  python encode_in_cnf.py --hom input/graphs/k3.gr input/graphs/example.gr
+ 1858  black *.py --config=./pyproject.toml --verbose
+ 1857  python encode_in_cnf.py --hom input/graphs/k3.gr input/graphs/example.gr
+ 1856  python encode_in_cnf.py --emb input/graphs/k3.gr input/graphs/example.gr
+ 1855  python
+ 1854  ./../sharpSAT/build/Release/sharpSAT generated-input/cnf-hom-h-k3.gr-g-k3.gr.cnf
+ 1853  python encode_in_cnf.py --hom input/graphs/k3.gr input/graphs/k3.gr
+ 1852  ./../sharpSAT/build/Release/sharpSAT generated-input/cnf-emb-h-k3.gr-g-k3.gr.cnf
+ 1851  python encode_in_cnf.py --emb input/graphs/k3.gr input/graphs/k3.gr
+ 1850  ./../sharpSAT/build/Release/sharpSAT generated-input/cnf-emb-h-k3.gr-g-example.gr.cnf
+ 1849  python encode_in_cnf.py --emb input/graphs/k3.gr input/graphs/example.gr
+ 1848  ./../sharpSAT/build/Release/sharpSAT generated-input/cnf-emb-h-k3.gr-g-example.gr.cnf
+ 1847  python encode_in_cnf.py --emb input/graphs/k3.gr input/graphs/example.gr
+ 1846  ./../sharpSAT/build/Release/sharpSAT generated-input/cnf-emb-h-k3.gr-g-example.gr.cnf
+ 1845  python encode_in_cnf.py --emb input/graphs/k3.gr input/graphs/example.gr
+ 1844  python encode_in_cnf.py --hom input/graphs/k3.gr input/graphs/example.gr
+ 1843  cat encode_in_cnf.py
+ 1842  python encode_in_cnf.py --emb input/graphs/k3.gr input/graphs/example.gr
+ 1841  python encode_in_cnf.py --hom input/graphs/k3.gr input/graphs/example.gr
+ 1840  cd src
+ 1839  ./sharpSAT ../../../src/generated-input/cnf-hom-h-k3.gr-g-example.gr.cnf
+ 1838  cd ../../sharpSAT/build/Release/
+ 1837  ./run_ganak.sh ../../src/generated-input/cnf-hom-h-k3.gr-g-example.gr.cnf
+ 1836  cd ../../../ganak/scripts
+ 1835  python
+ 1834  ./experiments -count -h ../../../src/input/graphs/k3.gr -g ../../../src/input/graphs/example.gr
+ 1833  ls
+ 1832  cd Documents/research/k-sat/SubgraphThesis/experiments-build/experiments
+ 1831  python
+ 1830  cd Documents/research/k-sat/src
+ 1829  python test_encoder.py
+ 1828  cd src
+ 1827  pwd
+ 1826  cwd
+ 1825  git push
+ 1824  git commit -m "encoder improved, still incorrect"
+ 1823  git add .
+ 1822  git status
+ 1821  sudo apt-get update
+ 1820  y
+ 1819  Y
+ 1818  python test_encoder.py
+ 1817  python
+ 1816  python test_encoder.py
+ 1815  pytest
+ 1814  test.py
+ 1813  cd ..
+ 1812  cd .
+ 1811  tests
+ 1810  test
+ 1809  python test_encoder.py
+ 1808  python
+ 1807  ./../ganak/scripts/run_ganak.sh input/inputFile.txt
+ 1806  python
+ 1805  python count-homomorphism.py
+ 1804  black *.py --config=./pyproject.toml --verbose
+ 1803  ./../SubgraphThesis/experiments-build/experiments/experiments -count -h input/graphs/cycle5.gr -g input/graphs/paley-101.gr > input/output_graph.txt
+ 1802  ./../SubgraphThesis/experiments-build/experiments/experiments -count -h input/graphs/cycle5.gr -g input/graphs/paley-101.gr
+ 1801  black *.py --config=./pyproject.toml --verbose
+ 1800  cd src
+ 1799  cd ../../src
+ 1798  cat settings.json
+ 1797  ls
+ 1796  .vscode
+ 1795  cd Desktop/k-sat
+ 1794  echo $PYTHONPATH
+ 1793  nano ~/.bashrc
+ 1792  cat ~/.bashrc
+ 1791  nano ~/.bash_rc
+ 1790  nano ~/.bash_profile
+ 1789  cd src
+ 1788  pwd
+ 1787  pwr
+ 1786  cd ..
+ 1785  ../SubgraphThesis/experiments-build/experiments/experiments -count -h input/graphs/cycle5.gr -g input/graphs/paley-101.gr
+ 1784  ./experiments -count -h ../../../src/input/graphs/cycle5.gr -g ../../../src/input/graphs/paley-101.gr
+ 1783  python encode-in-cnf.py --hom input/graphs/cycle5.gr input/graphs/paley-101.gr
+ 1782  cd ../../src
+ 1781  ./run_ganak.sh ../../src/what-is-this.cnf  
+ 1780  cd ../ganak/scripts
+ 1779  python encode-in-cnf.py --hom input/graphs/cycle5.gr input/graphs/paley-101.gr
+ 1778  black *.py --config=./pyproject.toml --verbose
+ 1777  cd src
+ 1776  git status
+ 1775  git reset --hard HEAD~2
+ 1774  git commit -c ORIG_HEAD
+ 1773  git push
+ 1772  git commit -m "removed 200mb file"
+ 1771  git add .
+ 1770  cd ..
+ 1769  python encode-in-cnf.py --hom input/graphs/cycle5.gr input/graphs/paley-101.gr
+ 1768  cd src
+ 1767  git reset --soft HEAD^
+ 1766  git push
+ 1765  git commit -m "removed 200mb cnf"
+ 1764  git add .
+ 1763  cd ..
+ 1762  python encode-in-cnf.py --hom input/graphs/cycle5.gr input/graphs/paley-101.gr
+ 1761  git submodule add https://github.itu.dk/jonmo/SubgraphTh
+ 1760  cd src
+ 1759  git push
+ 1758  git commit -m "added random graph generator, fixes to encoder that is still incorrect"
+ 1757  git submodule add https://github.itu.dk/jonmo/SubgraphThesis SubgraphThesis
+ 1756  git add .
+ 1755  git status
+ 1754  ls
+ 1753  cd ..
+ 1752  ./experiments -count -h ../../../src/input/graphs/cycle5.gr -g ../../../src/input/graphs/paley-101.gr
+ 1751  chmod +x experiments
+ 1750  ./../SubgraphThesis/experiments-build/experiments/experiment -count -h input/graphs/cycle5.gr -g input/graphs/paley-101.gr
+ 1749  ls
+ 1748  cd experiments
+ 1747  ls
+ 1746  ./../SubgraphThesis/experiments-build/experiments -count -h input/graphs/cycle5.gr -g input/graphs/paley-101.gr
+ 1745  chmod +x experiments
+ 1744  cd Documents/research/k-sat/SubgraphThesis/experiments-build
+ 1743  ./../SubgraphThesis/experiments-build/experiments -count -h input/graphs/cycle5.gr -g input/graphs/paley-101.gr
+ 1742  cd Documents/research/k-sat/src
+ 1741  cd 
+ 1740  ls
+ 1739  cd experiments/
+ 1738  cd ..
+ 1737  ls
+ 1736  cd experiments
+ 1735  ls
+ 1734  ./build.sh
+ 1733  sh build
+ 1732  ls
+ 1731  build
+ 1730  sh build-third-party.sh
+ 1729  git submodule update
+ 1728  git submodule init
+ 1727  cd SubgraphThesis
+ 1726  ls
+ 1725  git submodule init
+ 1724  git clone https://github.itu.dk/jonmo/SubgraphThesis
+ 1723  cd Documents/research/k-sat
+ 1722  cd
+ 1721  ./run_ganak.sh ../../src/what-is-this.cnf  
+ 1720  cd ../ganak/scripts
+ 1719  python encode-in-cnf.py --hom input/graphs/cycle5.gr input/graphs/euroroad.gr
+ 1718  cd ../../src
+ 1717  ./run_ganak.sh ../../src/what-is-this.cnf  
+ 1716  cd ../ganak/scripts
+ 1715  cd ../../src
+ 1714  python
+ 1713  cd Documents/research/k-sat/src
+ 1712  python
+ 1711  python encode-in-cnf.py --hom input/graphs/cycle5.gr input/graphs/paley-101.gr
+ 1710  exit
+ 1709  python encode-in-cnf.py --hom input/graphs/cycle5.gr input/graphs/paley-101.gr
+ 1708  python encode-in-cnf.py --hom input/graphs/k3.gr input/graphs/paley-101.gr
+ 1707  python encode-in-cnf.py --emb input/graphs/k3.gr input/graphs/paley-101.gr
+ 1706  python encode-in-cnf.py --emb input/graphs/kr3.gr input/graphs/paley-101.gr
+ 1705  python encode-in-cnf.py --emb input/graphs/cycle5.gr input/graphs/paley-101.gr
+ 1704  python encode-in-cnf.py --emb input/graphs/square.gr input/graphs/paley-101.gr
+ 1703  cd ../../src
+ 1702  cd Documents/research/k-sat/ganak/scripts
+ 1701  ./run_ganak.sh ../../src/what-is-this.cnf  
+ 1700  cd ../ganak/scripts
+ 1699  python encode-in-cnf.py --hom input/graphs/square.gr input/graphs/paley-101.gr
+ 1698  cd ../../src
+ 1697  ./run_ganak.sh ../../src/what-is-this.cnf  
+ 1696  cd ../ganak/scripts
+ 1695  python encode-in-cnf.py --hom input/graphs/cycle5.gr input/graphs/paley-101.gr
+ 1694  python
+ 1693  black *.py --config=./pyproject.toml --verbose
+ 1692  python 
+ 1691  black *.py --config=./pyproject.toml --verbose
+ 1690  python encode-in-cnf.py --hom input/graphs/cycle5.gr input/graphs/paley-101.gr
+ 1689  cd src
+ 1688  pwd
+ 1687  pwr
+ 1686  path
+ 1685  cd
+ 1684  cwr
+ 1683  ~/.vscode/settings.json
+ 1682  python random-graph.py 1000 1
+ 1681  python random-graph.py 1000 0
+ 1680  python random-graph.py 1000 0.1
+ 1679  python random-graph.py 1000 0.5
+ 1678  python random-graph.py 1000 1
+ 1677  python random-graph.py 1000 0.66
+ 1676  python
+ 1675  python random-graph.py 1000 0.66
+ 1674  isort
+ 1673  black *.py --config=./pyproject.toml --verbose
+ 1672  cd src
+ 1671  black *.py --config=./pyproject.toml --verbose
+ 1670  git status
+ 1669  git push
+ 1668  git commit -m "fresh start"
+ 1667  git add .
+ 1666  git status
+ 1665  cd k-sat
+ 1664  git clone https://github.itu.dk/akob/k-sat
+ 1663  git config --global -e
+ 1662  git clone https://github.itu.dk/akob/k-sat
+ 1661  git config --global -e
+ 1660  git clone https://github.itu.dk/akob/k-sat
+ 1659  cd Documents/research
+ 1658  git config --global -e
+ 1657  ~/.gitconfig
+ 1656  git config
+ 1655  git config --list --show-origin
+ 1654  cd
+ 1653  git clone https://github.itu.dk/akob/k-sat
+ 1652  cd ..
+ 1651  git clone https://github.itu.dk/akob/k-sat
+ 1650  git status
+ 1649  cd Documents/research/k-sat
+ 1648  git config --unset --global credential.helperselector
+ 1647  ./run_ganak.sh ../../src/what-is-this.cnf  
+ 1646  cd ../ganak/scripts
+ 1645  python encode-in-cnf.py --hom input/graphs/cycle5.gr input/graphs/paley-101.gr
+ 1644  cd ../../src
+ 1643  ./run_ganak.sh ../../src/what-is-this.cnf  
+ 1642  cd ../ganak/scripts
+ 1641  python encode-in-cnf.py --hom input/graphs/k3.gr input/graphs/paley-101.gr
+ 1640  cd ../../src
+ 1639  python encode-in-cnf.py --hom input/graphs/k3.gr input/graphs/paley-101.gr
+ 1638  ./run_ganak.sh ../../src/what-is-this.cnf  
+ 1637  cd ../ganak/scripts
+ 1636  python encode-in-cnf.py --hom input/graphs/k3.gr input/graphs/paley-101.gr
+ 1635  cd src
+ 1634  git config --global credential.helper cache
+ 1633  git fetch
+ 1632  cd adpro_Solutions
+ 1631  ls
+ 1630  cd advanced-programming
+ 1629  ls
+ 1628  cd Documents
+ 1627  git fetch
+ 1626  git 
+ 1625  cd 
+ 1624  cat ~/.git-credentials
+ 1623  git status
+ 1622  rm -rf .git
+ 1621  git rm
+ 1620  git init
+ 1619  mkdir k-sat
+ 1618  cd Documents/research
+ 1617  sudo apt-get install git
+ 1616  sudp apt-get install git
+ 1615  apt-get git
+ 1614  git --version
+ 1613  git
+ 1612  sudo apt-get update
+ 1611  apt-get update
+ 1610  cd
+ 1609  apt-get update
+ 1608  apt update
+ 1607  git credential
+ 1606  git clone https://akob:Asdqwe123@github.itu.dk/akob/k-sat
+ 1605  git clone https://github.itu.dk/akob/k-sat
+ 1604  cd Documents/research
+ 1603  cd
+ 1602  git clone https://github.itu.dk/akob/k-sat
+ 1601  git status
+ 1600  git reset --hard
+ 1599  apt list --installed
+ 1598  ~/.git
+ 1597  ~/.gitconfig
+ 1596  git push
+ 1595  git remote set-url origin https://akob:Asdqwe123@github.itu.dk/akob/k-sat.git
+ 1594  git remove set-url origin https://akob:Asdqwe123@github.itu.dk/akob/k-sat.git
+ 1593  ~/.gitconfig
+ 1592  git push
+ 1591  git status
+ 1590  cd Documents/research/k-sat
+ 1589  restart
+ 1588  .git/config
+ 1587  .git
+ 1586  ls
+ 1585  git config -1
+ 1584  ~/.git-credentials
+ 1583  git credentials
+ 1582  git-credentials
+ 1581  ~./git-credentials
+ 1580  cd
+ 1579  ~./git-credentials
+ 1578  git push
+ 1577  git submodule add https://github.com/meelgroup/ganak ganak
+ 1576  git add .
+ 1575  git status
+ 1574  cd ..
+ 1573  git status
+ 1572  git push
+ 1571  git status
+ 1570  git push origin master
+ 1569  git push
+ 1568  git commit -m "Added encoder, correctness unconfirmed"
+ 1567  git add .
+ 1566  git status
+ 1565  ls
+ 1564  cd ../../src
+ 1563  git status
+ 1562  ./run_ganak.sh ../../src/what-is-this.cnf
+ 1561  ls
+ 1560  cd ganak/scripts
+ 1559  cd ..
+ 1558  python encode-in-cnf.py --hom input/graphs/cycle7.gr input/graphs/paley-101.gr
+ 1557  python
+ 1556  python encode-in-cnf.py --hom input/graphs/cycle7.gr input/graphs/euroroad.gr
+ 1555  /usr/bin/python3.7
+ 1554  python encode-in-cnf.py --hom input/graphs/cycle7.gr input/graphs/euroroad.gr
+ 1553  python
+ 1552  python encode-in-cnf.py --hom input/graphs/cycle7.gr input/graphs/euroroad.gr
+ 1551  python
+ 1550  python encode-in-cnf.py --hom input/graphs/cycle7.gr input/graphs/euroroad.gr
+ 1549  python
+ 1548  python encode-in-cnf.py --hom input/graphs/cycle7.gr input/graphs/euroroad.gr
+ 1547  python encode-in-cnf.py --hom input/graphs/cycle7.gr input/graphs/paley-101
+ 1546  python encode-in-cnf.py --hom input/graphs/cycle7.gr lol
+ 1545  black *.py --config=./pyproject.toml --verbose
+ 1544  python encode-in-cnf.py --hom lol
+ 1543  python encode-in-cnf.py --hom
+ 1542  python encode-in-cnf.py lol
+ 1541  python
+ 1540  git commit -m "fresh start"
+ 1539  git add .
+ 1538  git status
+ 1537  cat count_few.py
+ 1536  ./run_ganak.sh ../../src/generated-input-bin_search/cnf-gen-L220-W3-C969-S384.cnf
+ 1535  cd ../ganak/scripts
+ 1534  ./../ganak/scripts/run_ganak.sh generated-input/cnf-gen-L25-W3-C10.cnf
+ 1533  cd src
+ 1532  cd ..
+ 1531  ls
+ 1530  cd ..
+ 1529  ./../ganak/scripts/run_ganak.sh generated-input/cnf-gen-L25-W3-C10.cnf
+ 1528  cd ../src
+ 1527  chmod +x run_ganak.sh
+ 1526  cd ../ganak/scripts
+ 1525  ./../ganak/scripts/run_ganak.sh generated-input/cnf-gen-L25-W3-C10.cnf
+ 1524  cd ../src
+ 1523  ls scripts
+ 1522  ls
+ 1521  cd Documents/research/k-sat/ganak
+ 1520  ls
+ 1519  cd
+ 1518  ls
+ 1517  cp ganak ../bin/
+ 1516  make
+ 1515  cmake ..
+ 1514  mkdir build && cd build
+ 1513  cd ganak
+ 1512  ls
+ 1511  git clone https://github.com/meelgroup/ganak.git
+ 1510  ls
+ 1509  cd Documents/research/k-sat
+ 1508  sudo apt-get install libmpc-dev
+ 1507  sudo apt-get install libmpfr-dev
+ 1506  sudo apt-get install libgmp-dev
+ 1505  cat input/output_approximation_experiment_01-07-2020.csv
+ 1504  python approximation_experiment.py
+ 1503  black *.py --config=./pyproject.toml --verbose
+ 1502  python approximation_experiment.py
+ 1501  python
+ 1500  python approximation_experiment.py
+ 1499  python
+ 1498  python approximation_experiment.py
+ 1497  black *.py --config=./pyproject.toml --verbose
+ 1496  isort run_apx_to_d.py
+ 1495  python
+ 1494  pyton
+ 1493  python import glob
+ 1492  python run_apx_to_d.py generated-input/cnf-gen-L25-W3-C20-S2862176.cnf 0.33 0.5 9 2000
+ 1491  python
+ 1490  python run_apx_to_d.py generated-input-bin_search/cnf-gen-L220-W3-C965-I6.cnf 0.33 0.5 9 2000
+ 1489  black *.py --config=./pyproject.toml --verbose
+ 1488  python run_apx_to_d.py generated-input-bin_search/cnf-gen-L220-W3-C965-I6.cnf 0.33 0.5 9 2000
+ 1487  black *.py --config=./pyproject.toml --verbose
+ 1486  python run_apx_to_d.py generated-input-bin_search/cnf-gen-L220-W3-C965-I6.cnf 0.33 0.5 9 5000
+ 1485  python run_apx_to_d.py generated-input-bin_search/cnf-gen-L220-W3-C965-I6.cnf 0.33 0.5 9 5000 2
+ 1484  python run_apx_to_d.py generated-input-bin_search/cnf-gen-L220-W3-C965-I6.cnf 0,33 0,5 9 5000 2
+ 1483  python
+ 1482  python run_apx_to_d.py "generated-input-bin_search/cnf-gen-L220-W3-C965-I6.cnf" 0.33 0.5 3 180 1337
+ 1481  python run_apx_to_d.py "generated-input-bin_search/cnf-gen-L220-W3-C965-I6.cnf" 0.33 0.5 3 1337
+ 1480  python run_apx_to_d.py "generated-input-bin_search/cnf-gen-L220-W3-C965-I6.cnf" 1/3 1/2 3 1337
+ 1479  black *.py --config=./pyproject.toml --verbose
+ 1478  python hashing_experiment.py
+ 1477  python
+ 1476  for i in range(1,2):
+ 1475  python hashing_experiment.py
+ 1474  python
+ 1473  python hashing_experiment.py
+ 1472  python hashing_experiment.py > hashing_summary_r5_nonempty-y.csv
+ 1471  python hashing_experiment.py
+ 1470  isort
+ 1469  black *.py --config=./pyproject.toml --verbose
+ 1468  cd Documents/research/k-sat/src
+ 1467  python
+ 1466  sleep 10
+ 1465  ping 127.0.0.1 -n 6
+ 1464  python
+ 1463  python hashing_experiment.py
+ 1462  sudo apt install ./teams_1.3.00.5153_amd64.deb
+ 1461  apt install ./teams_1.3.00.5153_amd64.deb
+ 1460  cd Downloads
+ 1459  sudo apt update
+ 1458  apt update
+ 1457  python hashing_experiment.py > hashing_summary.csv
+ 1456  python hashing_experiment.py
+ 1455  python
+ 1454  isort
+ 1453  y
+ 1452  isort
+ 1451  python
+ 1450  pip3 install panda
+ 1449  pip install panda
+ 1448  python
+ 1447  python hashing_experiment.py
+ 1446  black *.py --config=./pyproject.toml --verbose
+ 1445  python hashing_experiment.py
+ 1444  black *.py --config=./pyproject.toml --verbose
+ 1443  isort
+ 1442  /usr/bin/python3.7
+ 1441  y
+ 1440  isort
+ 1439  black *.py --config=./pyproject.toml --verbose
+ 1438  python
+ 1437  python hashing_experiment.py > hashing_results.txt
+ 1436  python hashing_experiment.py
+ 1435  python
+ 1434  python hashing_experiment.py
+ 1433  black *.py
+ 1432  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1431  ssh akob@hpc.itu.dk
+ 1430  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1429  upgrade_oh_my_zsh
+ 1428  git rebase --skip
+ 1427  git rebase --continue
+ 1426  git rebase --contine
+ 1425  ~/.oh-my-zsh
+ 1424  upgrade_oh_my_zsh
+ 1423  cd ~
+ 1422  git commit -m "yes?"
+ 1421  git commit -m
+ 1420  git add .
+ 1419  git status
+ 1418  ls
+ 1417  ~/.oh-my-zsh
+ 1416  ls
+ 1415  cd ..
+ 1414  ls
+ 1413  cd ..
+ 1412  ls
+ 1411  where oh-my
+ 1410  ~/oh-my-zsh
+ 1409  ssh akob@hpc.itu.dk
+ 1408  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1407  ssh akob@hpc.itu.dk
+ 1406  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1405  ssh akob@hpc.itu.dk
+ 1404  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1403  ssh akob@hpc.itu.dk
+ 1402  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1401  ssh akob@hpc.itu.dk
+ 1400  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1399  ssh akob@hpc.itu.dk
+ 1398  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1397  ssh akob@hpc.itu.dk
+ 1396  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1395  scp -r bin_search_m_value.py akob@hpc.itu.dk:/home/akob/project/src
+ 1394  ssh akob@hpc.itu.dk
+ 1393  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1392  scp -r bin_search_m_value.py akob@hpc.itu.dk:/home/akob/project/src
+ 1391  python bin_search_m_value.py
+ 1390  black *.py
+ 1389  ./../sharpSAT/build/Release/sharpSAT input/inputFile.txt
+ 1388  python
+ 1387  black count_exact.py
+ 1386  python hashing_experiment.py
+ 1385  python Documents/research/k-sat/src/hashing_experiment.py >> Documents/research/k-sat/src/hashing_results-23-04.txt
+ 1384  python hashing_experiment.py >> hashing_results-23-04.txt
+ 1383  python hashing_experiment.py
+ 1382  python
+ 1381  python bin_search_m_value.py
+ 1380  python
+ 1379  python bin_search_m_value.py
+ 1378  black *.py
+ 1377  isort cnf_io.py
+ 1376  python bin_search_m_value.py
+ 1375  isort hashing_experiment.py
+ 1374  black hashing_experiment.py
+ 1373  cd Documents/research/k-sat/src
+ 1372  python bin_search_m_value.py
+ 1371  black bin_search_m_value.py
+ 1370  python bin_search_m_value.py
+ 1369  python
+ 1368  python ~/Documents/python/test.py
+ 1367  python bin_search_m_value.py >> result_21_04_20.txt
+ 1366  python bin_search_m_value.py
+ 1365  sleep 5
+ 1364  python ~/Documents/python/test.py
+ 1363  python bin_search_m_value.py
+ 1362  python ~/Documents/python/test.py
+ 1361  python bin_search_m_value.py
+ 1360  python
+ 1359  python bin_search_m_value.py
+ 1358  black bin_search_m_value.py
+ 1357  python bin_search_m_value.py
+ 1356  python
+ 1355  python bin_search_m_value.py
+ 1354  python
+ 1353  python bin_search_m_value.py
+ 1352  black bin_search_m_value.py
+ 1351  isort bin_search_m_value.py
+ 1350  python
+ 1349  black bin_search_m_value.py
+ 1348  sudo apt-get update
+ 1347  sudo apt-update
+ 1346  python test.py
+ 1345  cd ~/Documents/python
+ 1344  python
+ 1343  python bin_search_m_value.py
+ 1342  cd ..
+ 1341  rm *
+ 1340  cd generated-input-bin_search
+ 1339  python bin_search_m_value.py
+ 1338  rm generated-input-bin_search/*
+ 1337  python
+ 1336  ./solvers/minisat_static generated-input-bin_search/cnf-gen-L216-W3-C1-I77.cnf
+ 1335  python bin_search_m_value.py
+ 1334  mkdir generated-input-bin_search
+ 1333  python bin_search_m_value.py
+ 1332  isort bin_search_m_value.py
+ 1331  black bin_search_m_value.py
+ 1330  cat Documents/research/k-sat/src/input/inputFile-1.txt
+ 1329  top
+ 1328  python run_apx_to_d.py generated-input/cnf-gen-L220-W3-C100-J28.cnf 0.33333333333 0.5 6 1
+ 1327  python
+ 1326  python run_apx_to_d.py generated-input/cnf-gen-L220-W3-C100-J28.cnf 0.33333333333 0.5 6 1
+ 1325  python run_apx_to_d.py generated-input/cnf-gen-L220-W3-C100-J28.cnf 1/3 1/2 6 1
+ 1324  isort run_apx_to_d.py
+ 1323  black *.py --config=./pyproject.toml --verbose
+ 1322  black * --config=./pyproject.toml --verbose
+ 1321  black * --config=./pyproject.toml, --verbose
+ 1320  black --config=./pyproject.toml, --verbose
+ 1319  python
+ 1318  python run_apx_to_d.py generated-input/cnf-gen-L220-W3-C100-J28.cnf 1/3 1/2 6 1
+ 1317  isort run_apx_to_d.py
+ 1316  black run_apx_to_d.py
+ 1315  python run_apx_to_d.py generated-input/cnf-gen-L220-W3-C100-J28.cnf 1/3 1/2 6 1
+ 1314  python ~/Documents/python/test.py "What" 1
+ 1313  ssh akob@hpc.itu.dk
+ 1312  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1311  scp -r job_generator_local.py akob@hpc.itu.dk:/home/akob/project/src
+ 1310  scp -r run_apx_to_d.py akob@hpc.itu.dk:/home/akob/project/src
+ 1309  scp -r apx_to_d.py akob@hpc.itu.dk:/home/akob/project/src
+ 1308  scp -r hashing.py akob@hpc.itu.dk:/home/akob/project/src
+ 1307  scp -r count_few.py akob@hpc.itu.dk:/home/akob/project/src
+ 1306  scp -r akob@hpc.itu.dk:/home/akob/project/src/job_generator.py /
+ 1305  scp -r akob@hpc.itu.dk:/home/project/src/job_generator.py /
+ 1304  python
+ 1303  ssh akob@hpc.itu.dk
+ 1302  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1301  ssh akob@hpc.itu.dk
+ 1300  ssh -i ~/.ssh/id_rsa akob@hpc.itu.dk
+ 1299  cat id_rsa.pub
+ 1298  ls
+ 1297  cd ~/.ssh
+ 1296  cd ~
+ 1295  cat id_rsa
+ 1294  ls
+ 1293  cd  ~/.ssh/
+ 1292  ssh akob@hpc.itu.dk
+ 1291  ls
+ 1290  cd ../Documents/research/k-sat/src/solvers
+ 1289  where gnu
+ 1288  gnu
+ 1287  scp -r Minisat-v2.2.0-106-ge2dd095.zip akob@hpc.itu.dk:/home/akob/project/miniSat/
+ 1286  scp -r Minisat-v2.2.0-106-ge2dd095.zip akob@hpc.itu.dk:/home/project/miniSat/
+ 1285  srp -r Minisat-v2.2.0-106-ge2dd095.zip akob@hpc.itu.dk:/home/project/miniSat/
+ 1284  ls
+ 1283  cd Downloads
+ 1282  python run_apx_to_d.py
+ 1281  scp -r akob@hpc.itu.dk:/home/akob/project/src/generated-input/cnf-gen-L220-W3-C100-J28.cnf generated-input
+ 1280  cd ..
+ 1279  scp -r akob@hpc.itu.dk:/home/akob/project/src/generated-input/cnf-gen-L220-W3-C100-J28.cnf 
+ 1278  scp -r akob@hpc.itu.dk:/home/akob/project/src/generated-input/cnf-gen-L220-W3-C100-J28.cnf /
+ 1277  cd generated-input
+ 1276  ssh akob@hpc.itu.dk
+ 1275  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1274  ssh akob@hpc.itu.dk
+ 1273  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1272  isort collect_results.py
+ 1271  black collect_results.py
+ 1270  python
+ 1269  python collect_results.py
+ 1268  cd ..
+ 1267  ls
+ 1266  rmdir experiment-find-cnf
+ 1265  rm experiment-find-cnf
+ 1264  cd ..
+ 1263  ls
+ 1262  mv *.csv ..
+ 1261  ls
+ 1260  mv *.cnf ..
+ 1259  cd experiment-find-cnf
+ 1258  ls
+ 1257  ls -lhrt experiment-find-cnf
+ 1256  ls
+ 1255  ls -lhrt
+ 1254  cd experiment-find-cnf
+ 1253  ls -lhrt /experiment-find-cnf/
+ 1252  ls -lhrt experiment-find-cnf
+ 1251  ls -lhrt experiment-find-cnf/*.cnf
+ 1250  ls -lhrt experiment-find-cnf
+ 1249  python collect_results.py
+ 1248  scp -r akob@hpc.itu.dk:/home/akob/project/src/experiment-find-cnf/ experiment-find-cnf
+ 1247  cd ..
+ 1246  scp -r akob@hpc.itu.dk:/home/akob/project/src/experiment-find-cnf/*.csv ../experiment-find-cnf
+ 1245  cd experiment-find-cnf
+ 1244  rm  experiment-find-cnf/*.csv
+ 1243  ls  experiment-find-cnf
+ 1242  ssh akob@hpc.itu.dk
+ 1241  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1240  exit
+ 1239  scp -r collect_results.py akob@hpc.itu.dk:/home/akob/project/src
+ 1238  ls
+ 1237  ssh akob@hpc.itu.dk
+ 1236  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1235  ssh akob@hpc.itu.dk
+ 1234  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1233  python collect_results.py
+ 1232  black collect_results.py
+ 1231  python collect_results.py
+ 1230  isort collect_results.py
+ 1229  black collect_results.py
+ 1228  python
+ 1227  python collect_results.py
+ 1226  python -m pip install numpy
+ 1225  python collect_results.py
+ 1224  black collect_results.py
+ 1223  isort collect_results.py
+ 1222  python collect_results.py
+ 1221  python
+ 1220  isort collect_results.py
+ 1219  black collect_results.py
+ 1218  python collect_results.py
+ 1217  python -m pip install pandas
+ 1216  python collect_results.py
+ 1215  python a.py
+ 1214  cd simple_package
+ 1213  python a.py
+ 1212  python
+ 1211  python a.py
+ 1210  cd simple_package
+ 1209  ls
+ 1208  python a.py
+ 1207  black a.py
+ 1206  ssh akob@hpc.itu.dk
+ 1205  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1204  python
+ 1203  ssh akob@hpc.itu.dk
+ 1202  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1201  ssh akob@hpc.itu.dk
+ 1200  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1199  exit
+ 1198  python
+ 1197  ssh akob@hpc.itu.dk
+ 1196  python
+ 1195  scp -r job_generator.py akob@hpc.itu.dk:/home/akob/project/src
+ 1194  scp -r job_generator.py akob@hpc.itu.dk
+ 1193  cat commit.job
+ 1192  python job_generator.py
+ 1191  cat commit.job
+ 1190  python job_generator.py
+ 1189  cat commit.job
+ 1188  python job_generator.py
+ 1187  cat commit.job
+ 1186  python job_generator.py
+ 1185  python
+ 1184  scp -r cnf_generator.py akob@hpc.itu.dk:/home/akob/project/src
+ 1183  scp -r count_exact.py akob@hpc.itu.dk:/home/akob/project/src
+ 1182  scp -r execute_experiment.py akob@hpc.itu.dk:/home/akob/project/src
+ 1181  scp -r cnf_io.py akob@hpc.itu.dk:/home/akob/project/src
+ 1180  cd Documents/research/k-sat/src
+ 1179  python execute_experiment.py 10 10 3 1
+ 1178  python
+ 1177  python execute_experiment.py 10 10 3 1
+ 1176  black count_exact.py
+ 1175  python
+ 1174  ./../sharpSAT/build/Release/sharpSAT /home/andre/Documents/research/k-sat/src/generated-input/cnf-gen-L10-W3-C10-J1.cnf > /home/andre/Documents/research/k-sat/src/input/output-1.txt
+ 1173  python
+ 1172  python execute_experiment.py 10 10 3 1
+ 1171  black count_exact.py
+ 1170  python execute_experiment.py 10 10 3 1
+ 1169  python
+ 1168  ./../sharpSAT/build/Release/sharpSAT generated-input/cnf-gen-L14-W3-C20.cnf
+ 1167  ./../sharpSAT/build/Release/sharpSAT generated-input/cnf-gen-L14-W3-C20.cnf input/output-1.tx
+ 1166  ./../sharpSAT/build/Release/sharpSAT generated-input/cnf-gen-L14-W3-C20.cnf input/output-1.txt
+ 1165  ./../sharpSAT/build/Release/sharpSAT generated-input/cnf-gen-L10-W3-C100-J1.cnf input/output-1.txt
+ 1164  python execute_experiment.py 10 100 3 1
+ 1163  mkdir experiment-find-cnf
+ 1162  isort execute_experiment.py
+ 1161  black execute_experiment.py
+ 1160  ls
+ 1159  python
+ 1158  python execute_experiment.py 10 4 3 20000
+ 1157  python
+ 1156  ssh akob@hpc.itu.dk
+ 1155  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1154  black cnf_generator.py
+ 1153  python
+ 1152  python test.py abcde
+ 1151  python test.py abcde > /dev/null
+ 1150  python test.py abcde > dev/null
+ 1149  python test.py abcde
+ 1148  python test.py
+ 1147  cd Documents/python
+ 1146  cd 
+ 1145  python
+ 1144  scp -r count_solutions.py akob@hpc.itu.dk:/home/akob/project/
+ 1143  scp -r cnf_io.py akob@hpc.itu.dk:/home/akob/project/
+ 1142  scp -r cnf.py akob@hpc.itu.dk:/home/akob/project/
+ 1141  scp -r count_exact.py akob@hpc.itu.dk:/home/akob/project/
+ 1140  python job_generator.py
+ 1139  cd ..
+ 1138  scp -r *.cnf akob@hpc.itu.dk:/home/akob/project/generated-input
+ 1137  ssh akob@hpc.itu.dk
+ 1136  cd Documents/research/k-sat/src/generated-input
+ 1135  ssh akob@hpc.itu.dk
+ 1134  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+ 1133  python correctness_checker.py > log1.txt
+ 1132  python cnf_generator.py
+ 1131  python
+ 1130  isort correctness_checker.py
+ 1129  black correctness_checker.py
+ 1128  python correctness_checker.py > log.txt
+ 1127  python correctness_checker.py
+ 1126  python cnf_generator.py
+ 1125  ./../sharpSAT/build/Release/sharpSAT input/inputFile.txt
+ 1124  python correctness_checker.py
+ 1123  python cnf_generator.py
+ 1122  isort cnf_generator.py
+ 1121  black cnf_generator.py
+ 1120  mkdir generated-input
+ 1119  python
+ 1118  black cnf_generator.py
+ 1117  python
+ 1116  black cnf_generator.py
+ 1115  python
+ 1114  pytest
+ 1113  nano Documents/research/Minutes
+ 1112  python
+ 1111  pytest
+ 1110  exit
+ 1109  code ~/.zshrc
+ 1108  vsc ~/.zshrc
+ 1107  open ~/.zshrc
+ 1106  cd ~/.bashrc
+ 1105  ~/
+ 1104  python
+ 1103  pytest
+ 1102  code
+ 1101  vsc
+ 1100  reid
+ 1099  pytest
+ 1098  cd Documents/research/k-sat/src
+ 1097  python
+ 1096  echo $PYTHONPATH
+ 1095  export PYTHONPATH="${PYTHONPATH}:/home/andre/Documents/research/k-sat/src"
+ 1094  export PYTHONPATH = "${PYTHONPATH}:/home/andre/Documents/research/k-sat/src"
+ 1093  export PYTHONPATH = "${PYTHONPATH}:~/home/andre/Documents/research/k-sat/src"
+ 1092  ls Documents/research/k-sat/src
+ 1091  echo $PYTHONPATH
+ 1090  export PYTHONPATH = "=src/:$PYTHONPATH"
+ 1089  echo $PYTHONPATH
+ 1088  echo $pythonpath
+ 1087  pytest
+ 1086  cd tests
+ 1085  pytest
+ 1084  cd Documents/research/k-sat/src
+ 1083  pytest
+ 1082  cd tests
+ 1081  pytest
+ 1080  cd ..
+ 1079  py.test
+ 1078  pytest
+ 1077  cd test
+ 1076  pytest
+ 1075  python
+ 1074  pytest
+ 1073  export PYTHONPATH=/home/andre/Documents/research/k-sat/src
+ 1072  echo $PYTHONPATH
+ 1071  cat PYTHONPATH
+ 1070  pytest
+ 1069  export PYTHONPATH="${PYTHONPATH}:/src"
+ 1068  cat ~/.zshrc
+ 1067  cat Minutes
+ 1066  ls
+ 1065  cd Documents/research
+ 1064  py.test
+ 1063  black hashing_test.py
+ 1062  py.test
+ 1061  isort hashing_test.py
+ 1060  black hashing_test.py
+ 1059  isort hashing_test.py
+ 1058  py.test
+ 1057  python
+ 1056  cd Documents/research/k-sat/src
+ 1055  py.test
+ 1054  black hashing_test.py
+ 1053  flake8
+ 1052  py.test
+ 1051  cd tests
+ 1050  py.test
+ 1049  python
+ 1048  cd ..
+ 1047  python
+ 1046  py.test
+ 1045  cd tests
+ 1044  py.test
+ 1043  test.py
+ 1042  cd ..
+ 1041  test.py
+ 1040  black hashing_test.py
+ 1039  flake8
+ 1038  py.test
+ 1037  ls
+ 1036  cd tests
+ 1035  ls
+ 1034  cd ~/Documents/research/k-sat/src
+ 1033  ls
+ 1032  cd ../
+ 1031  ls
+ 1030  cd ../lib64
+ 1029  ls
+ 1028  cd lib
+ 1027  ls
+ 1026  cd ..
+ 1025  ls
+ 1024  cd ..
+ 1023  ls
+ 1022  cd ~/../../usr/bin/
+ 1021  cd /usr/bin/python
+ 1020  where python
+ 1019  python -m
+ 1018  python
+ 1017  ls
+ 1016  python
+ 1015  cd simple_package
+ 1014  mkdir simple_package
+ 1013  ls
+ 1012  cd python
+ 1011  ls
+ 1010  cd ~/Documents
+ 1009  cd ../../
+ 1008  python
+ 1007  python __init__.py
+ 1006  ls
+ 1005  python
+ 1004  black tests/hashing_test.py
+ 1003  py.test
+ 1002  mkdir tests
+ 1001  mdkir tests
+ 1000  isort hashing.py
+  999  black hashing.py
+  998  cd k-sat/src
+  997  python run_apx_to_d.py
+  996  python hashing.py
+  995  isort hashing.py
+  994  python hashing.py
+  993  pytest --version
+  992  python -m pip install -U pytest
+  991  pip install -U pytest
+  990  python run_apx_to_d.py
+  989  python hashing.py
+  988  isort 
+  987  black /home/andre/Documents/research/k-sat/src
+  986  black
+  985  flake8
+  984  black cnf.py
+  983  black count_few.py
+  982  flake8-black
+  981  flake8 -help
+  980  flake8
+  979  flake8-black countFew.py
+  978  flake8 countFew.py
+  977  python -m pip install flake8-black
+  976  isort apxToD.py
+  975  isort count_exact.py
+  974  isort countFew.py
+  973  python -m pip install isort
+  972  python pip install isort
+  971  pip install isort
+  970  flake8 cnfIo.py
+  969  flake8 cnf.py
+  968  flake8 runApxToD.py
+  967  flake8 apxToD.py
+  966  flake8 countExact.py
+  965  flake8 countFew.py
+  964  flake8 
+  963  mkdir old
+  962  flake8 
+  961  python -m pip install flake8
+  960  cd k-sat/src
+  959  sudo snap install teams-for-linux
+  958  sudo apt install snapd
+  957  sudo apt update
+  956  exit
+  955  su -
+  954  sudo apt install gdebi
+  953  python runApxToD.py
+  952  cat input/output.txt
+  951  python runApxToD.py
+  950  cat input/output.txt
+  949  python runApxToD.py
+  948  cat input/output.txt
+  947  python runApxToD.py
+  946  cat input/output.txt
+  945  python runApxToD.py
+  944  rm test01/output*
+  943  -rm test01/output*
+  942  python runApxToD.py
+  941  python count_exact.py
+  940  exit
+  939  python hashing.py
+  938  python count_exact.py
+  937  ./../sharpSAT/build/Release/sharpSAT test/testFile4.cnf  > test01/output2.txt
+  936  ./../sharpSAT/build/Release/sharpSAT test/testFile.cnf  > test01/output2.txt
+  935  ./../sharpSAT/build/Release/sharpSAT test/testFile2.cnf  > test01/output2.txt
+  934  ./../sharpSAT/build/Release/sharpSAT test/testFile1.cnf  > test01/output2.txt
+  933  ./../sharpSAT/build/Release/sharpSAT test/testFile2.cnf  > test01/output2.txt
+  932  ./../sharpSAT/build/Release/sharpSAT test01/simpleCNF.txt > test01/output.txt
+  931  python runApxToD.py
+  930  python cnf.py
+  929  python runApxToD.py
+  928  ls
+  927  cd ../..
+  926  python runApxToD.py
+  925  cd src
+  924  git add .
+  923  git status
+  922  cd ..
+  921  python runApxToD.py
+  920  cd k-sat/src
+  919  python runApxToD.py
+  918  python
+  917  exit
+  916  ./localTest.sh
+  915  ./../sharpSAT/build/Release/sharpSAT ~/../../media/andre/LinUXB/research-project/test02/fla-barthel-260-5.cnf >> numberOfSolutions.txt
+  914  ./localTest.sh
+  913  chmod 755 *.cnf
+  912  ./localTest.sh
+  911  chmod -rx *.cnf
+  910  ./localTest.sh
+  909  pwd
+  908  exit
+  907  cd ../../../../../andre/media/andre/
+  906  ./localTest.sh
+  905  cd k-sat/src
+  904  ls
+  903  ./../sharpSAT/build/Release/sharpSAT /media/andre/LinUXB/research-project/test02/fla-barthel-260-5.cnf >> output-barthel-220.txt
+  902  ./../sharpSAT/build/Release/sharpSAT /media/andre/LinUXB/research-project/test02/fla-barthel-220-1.cnf > output-barthel-220.txt
+  901  ./localTest.sh
+  900  chmod 755 localTest.sh
+  899  ./localTest.sh
+  898  chmod +x localTest.sh
+  897  ./localTest.sh
+  896  chmod -rx localTest.sh
+  895  chmod -w localTest.sh
+  894  chmod -m localTest.sh
+  893  chmod -r localTest.sh
+  892  chmod -rmw localTest.sh
+  891  chmod -rmx localTest.sh
+  890  cd ../../../src
+  889  ls
+  888  cd sharpSAT/build/Release
+  887  cd ~/Documents/research/k-sat
+  886  scp -r *.cnf akob@hpc.itu.dk:/home/akob/project/experiment01
+  885  ssh akob@hpc.itu.dk
+  884  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+  883  exit
+  882  ssh akob@hpc.itu.dk
+  881  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+  880  ssh akob@hpc.itu.dk
+  879  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+  878  ssh akob@hpc.itu.dk
+  877  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+  876  exit
+  875  ssh akob@hpc.itu.dk
+  874  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+  873  ssh akob@hpc.itu.dk
+  872  scp -r first.job akob@hpc.itu.dk:/home/akob/
+  871  ls
+  870  scp -r test/ akob@hpc.itu.dk:/home/akob/project/
+  869  cd ..
+  868  ls
+  867  cd ../../../src/test
+  866  exit
+  865  ls
+  864  cd Release/
+  863  ls
+  862  cd Documents/research/k-sat/sharpSAT/build
+  861  exit
+  860  EXIT
+  859  sudo apt install -f
+  858  sudo dpkg -i discord-0.0.10.deb
+  857  cd Downloads
+  856  sudo apt update -y
+  855  sudo apt update
+  854  ssh akob@hpc.itu.dk
+  853  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU 
+  852  exit
+  851  ssh localhost
+  850  exit
+  849  ssh localhost
+  848  ssh akob@hpc.itu.dk
+  847  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU 
+  846  exit
+  845  ssh akob@hpc.itu.dk
+  844  cd ~
+  843  cd~
+  842  ls
+  841  cd Documents/research/k-sat/src/test/
+  840  ls
+  839  s
+  838  ls
+  837  ssh akob@hpc.itu.dk
+  836  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU 
+  835  exit
+  834  exit
+  833  python --version
+  832  exit
+  831  cat .ssh/id_rsa
+  830  ssh akob@hpc.itu.dk
+  829  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU 
+  828  exit
+  827  ./sharpSAT ../../../src/test/testFile3.cnf
+  826  ./sharpSAT ../../../src/test/testFile6.cnf
+  825  ./sharpSAT ../../../src/test/testFile4.cnf
+  824  ./sharpSAT ../../../src/test/testFile1.cnf
+  823  ./sharpSAT ../../../src/test/testFile2.cnf
+  822  ls
+  821  cd Release
+  820  ls
+  819  cd build
+  818  ls
+  817  cd ../../sharpSAT
+  816  cat testFile2.cnf
+  815  cat testFile3.cnf
+  814  ls
+  813  cd Documents/research/k-sat/src/test
+  812  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU\n
+  811  ./sharpSAT test.txt
+  810  ./sharpSAT simpleCNF.txt
+  809  sharpSAT simpleCNF.txt
+  808  make
+  807  cd build/Release
+  806  ./setupdev.sh
+  805  cd ..
+  804  ls
+  803  make
+  802  malke
+  801  cd src
+  800  make
+  799  cd ..
+  798  ls
+  797  cd src
+  796  ls
+  795  cd sharpSAT
+  794  rm -d sharpSat
+  793  rm sharpSat
+  792  ls
+  791  git clone https://github.com/marcthurley/sharpSAT
+  790  mkdir sharpSat
+  789  cd Documents/research/k-sat
+  788  g++ --version
+  787  g++ --help
+  786  g++ -version
+  785  g++
+  784  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU 
+  783  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob -p --realm=ITU 
+  782  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --p --realm=ITU 
+  781  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU -p
+  780  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+  779  sudo apt-get install openfortivpn
+  778  sudo nano /etc/apt/sources.list
+  777  sudo apt-get remove forticlient
+  776  exit
+  775  which forticlient
+  774  sudo fortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+  773  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert 93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --username=akob --realm=ITU
+  772  sudo openfortivpn sslvpn.itu.dk:443 --trusted-cert\n93a93741a75688318f9f15590f9a3b2790a617ce4394c925e723cca6c1418aa9 --\nusername=akob --realm=ITU
+  771  sudo apt install forticlient
+  770  sudo apt-get update
+  769  sudo nano /etc/apt/sources.list
+  768  lsb_release -a
+  767  exit
+  766  python test.py
+  765  cd Documents/research/k-sat/src
+  764  ssh akob@hpc.itu.dk
+  763  clear
+  762  cd ~
+  761  cat id_rsa
+  760  cd .ssh
+  759  ssh akob@hpc.itu.dk
+  758  ssh -v -v -v -v akob@hpc.itu.dk
+  757  ssh akob@hpc.itu.dk
+  756  ssh localhost
+  755  ssh akob@hpc.itu.dk
+  754  python test.py
+  753  cd k-sat/src
+  752  ls
+  751  python test.py
+  750  ssh akob@hpc.itu.dk
+  749  exit
+  748  ssh akob@hpc.itu.dk
+  747  ssh -v -v -v -v hpc.itu.dk
+  746  ssh akob@hpc.itu.dk
+  745  sudo nano /etc/ssh/sshd_config
+  744  ssh akob@hpc.itu.dk
+  743  sudo systemctl restart sshd
+  742  sudo systemctl sshd
+  741  sudo nano /etc/ssh/sshd_config
+  740  /etc/init.d/ssh restart
+  739  /etc/init.d/ssh
+  738  /etc/init.d/sshd restart
+  737  exit
+  736  ssh localhost
+  735  sudo ssh akob@hpc.itu.dk
+  734  sudo systemctl reload sshd.service
+  733  ssh-copy-id akob@hpc.itu.dk
+  732  ssh -v -v -v -v akob@hpc.itu.dk
+  731  sudo ssh akob@hpc.itu.dk
+  730  ssh -v -v -v -v akob@hpc.itu.dk
+  729  ssh akob@hpc.itu.dk
+  728  ls -l
+  727  chmod -x id_rsa
+  726  cat id_rsa.pub
+  725  cat ~/.ssh/config
+  724  cat ~/.ssh/
+  723  cat known_hosts
+  722  cd .ssh
+  721  ssh -v -v -v -v akob@hpc.itu.dk
+  720  ssh -v -v -v -v andre@crusher
+  719  cat ssh -v -v -v -v andre@crusher
+  718  ssh akob@hpc.itu.dk
+  717  sudo systemctl restart sshd
+  716  sudo systemctl restart ssh
+  715  sudo nano /etc/ssh/sshd_config
+  714  ls
+  713  cd .ssh
+  712  ssh
+  711  ssh akob@hpc.itu.dk
+  710  sudo nano /etc/ssh/sshd_config
+  709  ssh akob@hpc.itu.dk
+  708  sudo nano /etc/ssh/sshd_config
+  707  ssh akob@hpc.itu.dk
+  706  sudo systemctl restart ssh
+  705  sudo nano /etc/ssh/sshd_config
+  704  exit
+  703  sudo nano /etc/ssh/sshd_config
+  702  ssh-copy-id hpc.itu.dk
+  701  ls -l
+  700  cd ~/.ssh
+  699  sudo service ssh restart
+  698  sudo nano /etc/ssh/sshd_config
+  697  cd ~
+  696  ssh akob@hpc.itu.dk
+  695  sudo service ssh start
+  694  cat id_rsa.pub
+  693  cat id_rsa
+  692  cd .ssh
+  691  ssh akob@hpc.itu.dk
+  690  ssh-copy-id andre@192.168.30.9
+  689  ssh akob@hpc.itu.dk
+  688  sudo systemctl reload ssh.service
+  687  sudo nano /etc/ssh/sshd_config
+  686  sudo code /etc/ssh/sshd_config
+  685  sudo vsc /etc/ssh/sshd_config
+  684  sudo nano /etc/ssh/sshd_config
+  683  cd ~
+  682  cat authorized_keys
+  681  cd .ssh
+  680  cd ssh
+  679  ssh akob@hpc.itu.dk
+  678  which sshd
+  677  which ssh
+  676  exit
+  675  sudo apt-get install ssh
+  674  apt list --installed
+  673  --installed
+  672  sudo systemctl reload sshd.service
+  671  sudo nano /etc/ssh/sshd_config
+  670  cd ~
+  669  cat id_rsa
+  668  cat authorized_keys
+  667  cd .ssh
+  666  ssh akob@hpc.itu.dk
+  665  ssh
+  664  ssh akob@hpc.itu.dk
+  663  cd ..
+  662  cat authorized_keys
+  661  ssh akob@hpc.itu.dk
+  660  cat id_rsa.pub
+  659  ls
+  658  cat id_rsa
+  657  ls
+  656  .ssh
+  655  ssh akob@hpc.itu.dk
+  654  exit
+  653  ssh akob@hpc.itu.dk
+  652  .pem
+  651  ls -la
+  650  chmod -R 700 /home/andre
+  649  ssh server -p port -o PreferredAuthentications=publickey
+  648  cd ~
+  647  ls
+  646  cd ../../etc/ssh
+  645  restorecon -r -vv .ssh/authorized_keys
+  644  chmod 600 .ssh/authorized_keys
+  643  chmod 600 .ssh/authorized_leys
+  642  chmod 700 .ssh
+  641  ssh-copy-id  -i ~/.ssh/id_rsa.pub  $crusher
+  640  ssh-copy-id  -i ~/.ssh/id_rsa.pub  crusher
+  639  ssh-copy-id  -i ~/.ssh/id_rsa.pub  $HOST
+  638  ssh-copy-id  -i ~/.ssh/id_rsa.pub  $crusher
+  637  hostname -f
+  636  hostname
+  635  echo $authorized_keys
+  634  ssh-copy-id andre@192.168.30.9
+  633  cd ..
+  632  cat id_rsa.pub >> authorized_keys
+  631  cat id_rsa >> authorized_keys
+  630  cd .ssh
+  629  cd ~
+  628  service ssh restart
+  627  code ssh_config
+  626  ssh-copy-id andre@192.168.30.9
+  625  service ssh restart
+  624  code ssh_config
+  623  ls
+  622  code sshd_config
+  621  cd etc/ssh/
+  620  cd ..
+  619  ssh-copy-id andre@192.168.30.9
+  618  ssh akob@hpc.itu.dk
+  617  nmcli -p device show
+  616  ip addr
+  615  ip addr (ip a)
+  614  ifconfig -a
+  613  ssh-copy-id andre@130.226.132.96
+  612  curl ifconfig.me
+  611  ssh-copy-id andre@127.0.0.1
+  610  ip addr
+  609  ipconfig -a
+  608  ip
+  607  ip_config
+  606  cat ~/.ssh/id_rsa.pub | ssh andre@crusher "cat >> ~/.ssh/authorized_keys\n\n\n"
+  605  ssh-copy-id andre@192.168.30.9
+  604  ssh akob@hpc.itu.dk
+  603  cd ~
+  602  code id_rsa.pub
+  601  cd /home/andre/.ssh/
+  600  cd /home/anre/.ssh/
+  599  cat ~/.ssh/id_rsa.pub | ssh andre@crusher "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"
+  598  ssh-keygen -t rsa
+  597  python
+  596  code /.
+  595  ./ code
+  594  vsc /.
+  593  vsc /,
+  592  /. vsc
+  591  vsc ./
+  590  ./ vsc
+  589  cd Documents/research/report
+  588  ./breakIt.sh
+  587  python3.7 inputGen.py 15000000 0 1337 1 | java BreakTest 15000000 >> breakResults3.txt
+  586  python3.7 inputGen.py 20000000 0 1337 1 | java BreakTest 20000000 >> breakResults3.txt
+  585  python3.7 inputGen.py 30000000 0 1337 1 | java BreakTest 30000000 >> breakResults3.txt
+  584  ./breakIt.sh
+  583  cd ApalExam/part2
+  582  ./breakIt.sh
+  581  javac BreakTest.java
+  580  ./breakIt.sh
+  579  javac BreakTest.java
+  578  ./breakIt.sh
+  577  javac BreakTest.java
+  576  cd ApalExam/part2
+  575  ./breakIt.sh
+  574  javac BreakTest.java
+  573  cd ApalExam/part2
+  572  ./breakIt.sh
+  571  breakIt.sh
+  570  python3.7 inputGen.py 100000 0 69 1 | java BreakTest 100000 10 69 100
+  569  javac BreakTest.java
+  568  chmod u+x+r breakIt.sh
+  567  python
+  566  javac BreakTest.java
+  565  cd ApalExam/part2
+  564  python
+  563  python inputGen.py 100 40 69 1 | java TestRankSelect
+  562  javac *.java
+  561  python inputGen.py 100 40 69 1 | java TestRankSelect
+  560  javac *.java
+  559  python inputGen.py 100 40 69 1 | java TestRankSelect
+  558  python inputGen.py 10000 40 69 1 | java TestRankSelect
+  557  java TestRankSelect
+  556  javac *.java
+  555  javac TestRankSelect.java
+  554  ls
+  553  cd ApalExam/part2
+  552  python
+  551  exit
+  550  code ./
+  549  ./ code
+  548  javac TestBinarySearchTree.java && java TestBinarySearchTree >> test2.txt
+  547  javac TestBalancedSearchTree.java
+  546  javac TestBinarySearchTree.java && java TestBinarySearchTree >> test2.txt
+  545  javac TestBalancedSearchTree.java
+  544  javc TestBalancedSearchTree.java
+  543  cd Documents/pcpp/exam/exercise02/src
+  542  javac TestBinarySearchTree.java && java TestBinarySearchTree >> test2.txt
+  541  javac TestBinarySearchTree.java && java TestBinarySearchTree
+  540  javac TestBinarySearchTree.java && java TestBinarySearchTree >> test2.txt
+  539  javac TestBinarySearchTree.java && java TestBinarySearchTree
+  538  javac TestBinarySearchTree.java && java TestBinarySearchTree >> test2.txt
+  537  javac TestBinarySearchTree.java && java TestBinarySearchTree > test2.txt
+  536  javac TestBinarySearchTree.java && java TestBinarySearchTree
+  535  javac TestBinarySearchTree.java && java TestBinarySearchTree > test2.txt
+  534  javac TestBinarySearchTree.java && java TestBinarySearchTree
+  533  exit
+  532  python
+  531  javac TestBinarySearchTree.java && java TestBinarySearchTree
+  530  javac TestBinarySearchTree.java && java TestBinarySearchTree > test.txt
+  529  java TestBinarySearchTree
+  528  javac TestBinarySearchTree.java
+  527  java TestBinarySearchTree
+  526  javac TestBinarySearchTree.java
+  525  javac TestBinarySearchTree.java && java TestBinarySearchTree > test.txt
+  524  javac TestBinarySearchTree.java && java TestBinarySearchTree
+  523  javac TestBinarySearchTree.java && java TestBinarySearchTree 100000
+  522  javac TestBinarySearchTree.java && java TestBinarySearchTree 100
+  521  javac TestBinarySearchTree.java && java TestBinarySearchTree
+  520  javac TestBinarySearchTree.java && java TestBinarySearchTree 100
+  519  javac TestBinarySearchTree.java && java TestBinarySearchTree
+  518  javac TestBinarySearchTree.java
+  517  javac Branch.java && java Branch 100
+  516  javac Branch.java && java Branch
+  515  java Branch
+  514  javac Branch.java
+  513  java Branch
+  512  javac Branch.java
+  511  cd exam/exercise01/src
+  510  java TestLocking0
+  509  javac TestLocking0.java
+  508  javac PrinterExperiment.java
+  507  java TestLongCounterExperiments
+  506  javac TestLongCounterExperiments.java
+  505  javac *.java
+  504  cd handin-01
+  503  python sparse-orthogonal-vectors.py < input-sparse-ortho.in
+  502  python sparse-inner-product.py < input-sparse-inner.in
+  501  python orthogonal-vectors.py < input-ortho2.in
+  500  python orthogonal-vectors.py < input-ortho.in
+  499  python orthogonal-vectors.py < input-ortho2.in
+  498  python orthogonal-vectors.py < input-ortho.in
+  497  python orthogonal-vectors.py < input-ortho2.in
+  496  python orthogonal-vectors.py < input-ortho.in
+  495  python inner-product.py < input.in
+  494  git push
+  493  git commit -m "should work now"
+  492  git add .
+  491  git pull
+  490  cd ApalExam
+  489  git clone https://github.itu.dk/Seve/ApalExam.git
+  488  cd Documents/applied-algorithms/final-project/
+  487  git log
+  486  git pull
+  485  git reset --hard
+  484  git branch --set-upstream-to = origin master
+  483  git checkout master
+  482  git branch
+  481  git pull
+  480  git push --set-upstream origin master
+  479  git push
+  478  git log
+  477  git pull
+  476  git push --set-upstream origin master
+  475  git push
+  474  git remote add origin https://github.itu.dk/Seve/ApalExam.git
+  473  git remove add origin https://github.itu.dk/Seve/ApalExam.git
+  472  git push
+  471  git status
+  470  ls
+  469  git remote
+  468  git push https://github.itu.dk/Seve/ApalExam.git
+  467  git push
+  466  git commit -m "Does it work now, yes?"
+  465  git add .
+  464  git status
+  463  git log
+  462  git clone https://github.itu.dk/Seve/ApalExam.git
+  461  git checkout c98dababbc2441c77304f049a4f99a70083fe952
+  460  git log
+  459  git clone https://github.itu.dk/Seve/ApalExam.git
+  458  git pull
+  457  cd ..
+  456  git status
+  455  git statys
+  454  cd Documents/applied-algorithms/final-project/ApalExam
+  453  git push
+  452  git commit -m "really hopes this works"
+  451  git add .
+  450  git clone https://github.itu.dk/Seve/ApalExam.git
+  449  git pull
+  448  git reset --hard
+  447  git pull
+  446  git push
+  445  git commit -m "we did, I hope"
+  444  git add .
+  443  cd Documents/applied-algorithms/final-project/ApalExam
+  442  ls
+  441  git add .
+  440  ./runExp1.sh
+  439  cd ../part1
+  438  ./testNRankSelect.sh
+  437  cd ApalExam/part2
+  436  ./testNRankSelect.sh
+  435  cd ApalExam/part2
+  434  ./testNRankSelect.sh
+  433  cd part2
+  432  git push
+  431  git commit -m "warmed up and ready to go"
+  430  git add .
+  429  git pull
+  428  cd ApalExam
+  427  git pull
+  426  git push
+  425  git commit -m "did we do it rite?"
+  424  git add .
+  423  cd Documents/applied-algorithms/final-project/ApalExam
+  422  cd 
+  421  ./testNRankSelect.sh
+  420  javac RunNRankSelect.java
+  419  ./testNRankSelect.sh
+  418  java Test
+  417  javac Test.java
+  416  python3.7 inputGen.py 100000 20 69 0 | java RunNRankSelect 100000 5 69 100
+  415  python3.7 inputGen.py 10000 20 69 0 | java RunNRankSelect 10000 5 69 100
+  414  python3.7 inputGen.py 1000 20 69 0 | java RunNRankSelect 1000 5 69 100
+  413  javac RunNRankSelect.java
+  412  python3.7 inputGen.py 1000 20 69 0 | java RunNRankSelect 1000 5 69 100
+  411  java RunNRankSelect 100 5 69 100 < tester.txt
+  410  python3.7 inputGen.py 100 20 69 0 > tester.txt
+  409  java RunNRankSelect 2000 5 69 200 < tester.txt
+  408  javac RunNRankSelect.java
+  407  java RunNRankSelect 2000 5 69 200 < tester.txt
+  406  cd part2
+  405  git push
+  404  git commit -m "maybe if we... i dont know"
+  403  git add .
+  402  cd ..
+  401  java RunNRankSelect 2000 5 69 200 < tester.txt
+  400  python3.7 inputGen.py 2000 20 69 0 > tester.txt
+  399  ./testNRankSelect.sh
+  398  java RunNRankSelect 100 5 10 200 < tester.txt
+  397  java RunNRankSelect 100 5 10 200
+  396  python3.7 inputGen.py 100 20 10 0
+  395  ./testNRankSelect.sh
+  394  javac *.java
+  393  ./testNRankSelect.sh
+  392  chmod u+r+x testNRankSelect.sh
+  391  ./testK.sh
+  390  java Test
+  389  javac Test.java
+  388  cd part1
+  387  ls
+  386  javac *.java
+  385  ./testK.sh
+  384  java RunKRankSelect 100 3 10 200 < tester.txt
+  383  javac RunKRankSelect.java
+  382  ./testK.sh
+  381  python inputGen.py 100 40 10  0 > tester.txt
+  380  python inputGen.py 100 40 10  0 
+  379  python inputGen.py 100 40 $seed 0 
+  378  ./testK.sh
+  377  chmod u+r+x testK.sh
+  376  ./testK.sh
+  375  ./testRankSelect.sh
+  374  python inputGen.py 125 40 69 1
+  373  python inputGen.py 125 40 69 0
+  372  ./testRankSelect.sh
+  371  chmod u+r+x testRankSelect.sh
+  370  chmod r+u+x testRankSelect.sh
+  369  javac *.java && java RunRankSelect < test.txt > res.txt
+  368  python3.7 inputGen.py 10 10 10 0
+  367  python3.7 inputGen.py
+  366  javac *.java && java RunRankSelect < test.txt > res.txt
+  365  git push
+  364  git commit -m "this can take a LONG while"
+  363  git add .
+  362  javac *.java && java RunRankSelect < test.txt > res.txt
+  361  java RunRankSelect < test.txt > res.txt
+  360  javac *.java
+  359  java RunRankSelect < test.txt > res.txt
+  358  python inputGen.py 10 4 100 1 > test.txt
+  357  java RunRankSelect < test.txt > res.txt
+  356  javac *.java
+  355  java RunRankSelect < test.txt > res.txt
+  354  javac *.java
+  353  java RunRankSelect < test.txt > res.txt
+  352  python inputGen.py 10 4 100 1 > test.txt
+  351  python
+  350  java RunRankSelect < test.txt > res.txt
+  349  java RunRankSelect < test.txt
+  348  javac *.java
+  347  java RunRankSelect < test.txt
+  346  javac *.java
+  345  java RunRankSelect < test.txt
+  344  javac *.java
+  343  python inputGen.py 10 4 100 1 > test.txt
+  342  python inputGen.py 10 4 100 1 | java RunRankSelect
+  341  javac *.java
+  340  python inputGen.py 10 4 100 1 | java RunRankSelect
+  339  javac *.java
+  338  cd ../../part2
+  337  javac *.java
+  336  ../java runP
+  335  java runP
+  334  java Timer
+  333  java ../Timer
+  332  cd part1/experiments
+  331  git pull
+  330  git reset --hard
+  329  git pull
+  328  git push
+  327  git commit -m "woups"
+  326  git add .
+  325  python inputGen.py 10 4 100 1 
+  324  python inputGen.py 10 4 100 1 | java RunRankSelect
+  323  javac *.java
+  322  python inputGen.py 10 4 100 1 | java RunRankSelect
+  321  javac *.java
+  320  git pull
+  319  git push
+  318  git fetch
+  317  git status
+  316  git pull
+  315  git commit -m "i really dont know whats going on"
+  314  git pull
+  313  git add .
+  312  git pull
+  311  git commit -m "i made a test unit"
+  310  git add .
+  309  python inputGen.py 128 40 10 0 > check.txt
+  308  git pull
+  307  git push
+  306  git commit -m "sup"
+  305  git add .
+  304  cd ApalExam
+  303  ls
+  302  git add .
+  301  python inputGen.py 128000 40 10 0 > check.txt
+  300  python inputGen.py 128 40 10 0 > check.txt
+  299  python inputGen.py 128000 10 0 > check.txt
+  298  python inputGen 128000 10 0 > check.txt
+  297  python inputGen.py 100 10 0
+  296  python inputGen 100 10 0
+  295  javac Test.java && java Test
+  294  java Test
+  293  javac Test.java
+  292  cd ApalExam
+  291  cd Documents/applied-algorithms/final-project
+  290  sudo dmidecode -t cache
+  289  sudo dmidecode -t cahce
+  288  lshw
+  287  $free
+  286  $cat /proc/cpuinfo
+  285  $ cat /proc/cpuinfo
+  284  $cat /proc/cpuinfo
+  283  ./testN.sh
+  282  cd ApalExam
+  281  ./testN.sh
+  280  java SBSTRandomGenerator 500 50 | java runAll 15 50 200
+  279  ./testN.sh
+  278  chmod u+r+x testN.sh
+  277  ./testN.sh
+  276  chmod -x testN.sh
+  275  ./testN.sh
+  274  cd ApalExam
+  273  chmod -x ApalExam/testN.sh
+  272  ./findAlpha.sh
+  271  ./runP.sh
+  270  ls
+  269  cd Documents/applied-algorithms/final-project/ApalExam
+  268  git push
+  267  git commit -m "ikke alligevel"
+  266  git add .
+  265  python inputGen.py 2 20 10 1
+  264  python inputGen.py 2 20 10 0
+  263  python inputGen.py 2 20 10 
+  262  python inputGen.py 2 20 10 1
+  261  ./runP.sh
+  260  python inputGen.py 2 20 10
+  259  python
+  258  python inputGen.py
+  257  python
+  256  python inputGen.py
+  255  cd Documents/applied-algorithms/final-project/ApalExam
+  254  ./runP.sh
+  253  python
+  252  ./runP.sh
+  251  java SBSTRandomGenerator 25000 4 | java RunP 4 100
+  250  javac RunP.java
+  249  java SBSTRandomGenerator 25000 4 | java RunP 4 100
+  248  java SBSTRandomGenerator.java 25000 4 | java RunP 4 100
+  247  javac SBSTRandomGenerator.java 25000 4 | java RunP 4 100
+  246  javac *.java
+  245  chmod +x runP.sh
+  244  ./runExp01.sh
+  243  javac OtherArray.java
+  242  javac *.java
+  241  ./runExp01.sh
+  240  git pull
+  239  git reset --hard
+  238  ./runExp01.sh
+  237  python
+  236  ./runExp01.sh
+  235  java runAll 10 1 10000 < result.txt
+  234  java runAll 9 1 10000 < result.txt
+  233  java runAll 8 1 10000 < result.txt
+  232  java runAll 7 1 10000 < result.txt
+  231  java runAll 6 1 10000 < result.txt
+  230  java runAll 64 1 10000 < result.txt
+  229  java runAll 4 1 10000 < result.txt
+  228  java runAll 5 1 10000 < result.txt
+  227  java runAll 5 1 1000 < result.txt
+  226  java runAll 5 1 100 < result.txt
+  225  java runAll 5 1000 100 < result.txt
+  224  java runAll 6 1000 100 < result.txt
+  223  java runAll 0 1000 100 < result.txt
+  222  java runAll 0 1000 10 < result.txt
+  221  java runAll 0 10 10 < result.txt
+  220  javac runAll.java
+  219  javac runAll
+  218  java runAll 20 10 10 < result.txt
+  217  java runAll 0 10 10 < result.txt
+  216  java runAll 1 10 10 < result.txt
+  215  ./t.sh
+  214  chmod +x t.sh
+  213  cd Desktop
+  212  exit
+  211  ls
+  210  exit
+  209  ./t.sh
+  208  cd ~/Desktop
+  207  ./test2.sh
+  206  ls
+  205  ./test.sh
+  204  git push
+  203  git commit -m "vi laver det i C i stedet"
+  202  git add .
+  201  ./test.sh
+  200  javac Timer.java
+  199  python 
+  198  ./test.sh
+  197  javac Timer.java
+  196  ./test.sh
+  195  javac Timer.java
+  194  ./test.sh
+  193  python
+  192  ./test.sh
+  191  java SBSTRandomGenerator 1000 100 | java runAll 5
+  190  ./test.sh
+  189  java SBSTRandomGenerator 1000 100 | java runAll 0
+  188  java SBSTRandomGenerator 1000 100 | java runAll 1
+  187  javac runAll.java
+  186  java SBSTRandomGenerator 1000 100 | java runAll 1
+  185  java SBSTRandomGenerator 1000 100 | java runAll 0
+  184  java SBSTRandomGenerator 1000 100 | java runAll 10
+  183  ./test.sh
+  182  java runAll 10 < result.txt
+  181  javac runAll.java
+  180  javac runAll
+  179  java runAll 10 < result.txt
+  178  ./test.sh
+  177  java runAll 20 < result.txt
+  176  ./test.sh
+  175  javac runAll.java
+  174  ./test.sh
+  173  java SBSTRandomGenerator 1000 10 | java runAll 20 1000
+  172  java runAll 20 1000 < result.txt
+  171  ./test.sh
+  170  javac runAll.java
+  169  javac runAll
+  168  ./test.sh
+  167  javac SBSTRandomGenerator.java
+  166  ./test.sh
+  165  ./experiment01.sh
+  164  ./test.sh
+  163  test.sh
+  162  java runAll 0.5 < result.txt
+  161  javac runAll.java
+  160  javac Timer.java
+  159  cd ApalExam
+  158  ls
+  157  javac runAll.java
+  156  javac Timer.java
+  155  git pull
+  154  git reset --hard
+  153  python apxToD.py
+  152  python countFew.py > ../results/experiment02.txt
+  151  cd src
+  150  mkdir results
+  149  cd ..
+  148  code ./
+  147  cd Desktop/research-project/src
+  146  python countFew.py
+  145  python apxToD.py
+  144  python countFew.py
+  143  > input/output.txt
+  142  > input/inputFile.txt
+  141  python countFew.py
+  140  sbt
+  139  cd ../../2019-adpro-fall/exam-2019-autumn-prerelease
+  138  sbt
+  137  cd exam-2019-autumn-release
+  136  cd ..
+  135  sbt
+  134  cd Documents/advanced-programming/adpro_Solutions/030-streams
+  133  sbt
+  132  cd exam-2019-autumn-prerelease
+  131  exit
+  130  sbt
+  129  cd 090-par
+  128  ls
+  127  cd Documents/advanced-programming/adpro_Solutions
+  126  scala
+  125  sbt scala
+  124  sbt
+  123  cd 2019-adpro-fall/150-exam
+  122  sbt
+  121  git push
+  120  git commit -m "done?"
+  119  git add .
+  118  cd ..
+  117  python countFew.py > experiment02.txt
+  116  python apxToD.py > experiment01-03.txt
+  115  python apxToD.py
+  114  python countFew.py
+  113  python countFew
+  112  python apxToD.py
+  111  python
+  110  python apxToD.py
+  109  python apxToD.py > test01.txt
+  108  python apxToD.py
+  107  python apxToD.py >> test03.txt
+  106  python apxToD.py >> test01.txt
+  105  python apxToD.py > test01.txt
+  104  python apxToD.py
+  103  python apxToD.py >> experiment01-2.txt
+  102  python apxToD.py > experiment01-2.txt
+  101  cd k-sat/src
+  100  exit
+   99  ps -aux
+   98  python apxToD.py > experiment01-2.txt
+   97  ls
+   96  cd Documents/research/k-sat/src
+   95  python clauseWidth2.py > new.txt
+   94  cd Documents/research/k-sat/clauseWidth
+   93  ps -aux
+   92  python clauseWidth2.py > new.txt
+   91  cd k-sat/clauseWidth
+   90  python apxToD.py > experiment01.txt
+   89  git push
+   88  git commit -m "almost there"
+   87  git add .
+   86  git cd k-sat
+   85  git status
+   84  git
+   83  python test.py
+   82  python countFew.py
+   81  cd src
+   80  exit
+   79  ps -aux
+   78  python countFew.py > abcd.txt
+   77  cd Documents/research/k-sat/src
+   76  ps -aux
+   75  python countFew.py 
+   74  ps -aux
+   73  python countFew.py > abcd.txt
+   72  ./solvers/abcdSAT input/inputFile.txt
+   71  python countFew.py
+   70  cd src
+   69  sbt
+   68  exit
+   67  sudo gdebi discord-0.0.9.deb
+   66  ls
+   65  cd Downloads
+   64  cd
+   63  sudo apt install gdebi-core wget
+   62  sudo apt update
+   61  code ./
+   60  code
+   59  cd 150-exam/src/main
+   58  git merge --no-ff master
+   57  git merge --no -ff
+   56  git merge --ff
+   55  git checkout local
+   54  git pull
+   53  git checkout master
+   52  cd ../2019-adpro-fall
+   51  git branch -a
+   50  git branch
+   49  git pull
+   48  git reset --hard
+   47  git status
+   46  git branches
+   45  git branch
+   44  git checkout local
+   43  git pull
+   42  cd Documents/advanced-programming/adpro_Solutions
+   41  ./solvers/glucose_static_4 input/inputFile.txt input/output.txt
+   40  python countFew.py > abcd.txt
+   39  ./solvers/glucose_static_4 input/inputFile.txt input/output.txt
+   38  ./solvers/glucose_static_4 input/inputFile.txt
+   37  ./solvers/abcdsat_r17 input/inputFile.txt
+   36  python countFew.py
+   35  python countFew.py > abcd.txt
+   34  cd k-sat/src
+   33  time python countFew.py > abcd.txt
+   32  time python countFew.py
+   31  time python test.py
+   30  time python countFew.py
+   29  exit
+   28  time python countFew.py
+   27  cd k-sat/src
+   26  sudo apt update && sudo apt install signal-desktop
+   25  echo "deb [arch=amd64] https://updates.signal.org/desktop/apt xenial main" | sudo tee -a /etc/apt/sources.list.d/signal-xenial.list
+   24  curl -s https://updates.signal.org/desktop/apt/keys.asc | sudo apt-key add -
+   23  ps aux
+   22  python apxToD.py > log.txt
+   21  python apxToD.py >> log.txt
+   20  cd Documents/research/k-sat/src
+   19  python apxToD.py
+   18  cd Documents/research/k-sat/src
+   17  python apxToD.py > log.txt
+   16  python apxToD.py >> log.txt
+   15  cd Documents/research/k-sat/src
+   14  python apxToD.py
+   13  cd Documents/research/k-sat/src
+   12  for y in 1 3:echo $y:done\n\n\n\n\n\n\n\n\n\n
+   11  for y in 1,2,3:echo $y:done\n\n\n\n\n\n
+   10  exit
+    9  nano .zshrc
+    8  exit
+    7  nano .zshrc
+    6  cd
+    5  cd ../..
+    4  nano
+    3  cd Documents/research/k-sat
+    2  ls
+    1  exit
