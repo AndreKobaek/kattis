@@ -25,7 +25,6 @@ def find_projection(line, x: int, y: int):
     b = x / line[0] + y
     x_coord = (line[1] - b) / ((-line[0] ** -1) - line[0])
     y_coord = line[0] * x_coord + line[1]
-    #print(line, x, y, x_coord, y_coord)
     return [x_coord, y_coord]
 
 
@@ -57,6 +56,7 @@ def compare_polygons(inner, outer, min_distance) -> float:
                     if within_points(inner[i + 1][0], inner[i + 1][1], inner[0][0], inner[0][1], point_on_line):
                         min_distance = dist
     return min_distance
+
 
 for _ in range(int(stdin.readline())):
     min_distance = float('inf')
